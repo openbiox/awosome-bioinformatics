@@ -18,7 +18,7 @@
     - [General](#general)
     - [Journal](#journal)
     - [Tools](#tools)
-    - [Books&Tutorial](#books&tutorial)
+    - [Books&Tutorial](#bookstutorial)
 - [Skills](#skills)
 - [Institute](#institute)
 - [People](#people)
@@ -176,18 +176,48 @@
 
 ### Books&Tutorial
 
-#### Chinese
+#### R
 
-- [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/)
-- [菜鸟教程](http://www.runoob.com/)
-- [Python学习手册：第4版（涵盖Python2.6和3.X）](http://product.dangdang.com/21063086.html)
-- [Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [R packages](http://r-pkgs.had.co.nz/)
+- [stringr](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html)
+- [Bioconductor Tutorial](http://master.bioconductor.org/help/course-materials/2003/MGED6/MGED6I.pdf)
+- [limma](https://www.bioconductor.org/packages/devel/bioc/vignettes/limma/inst/doc/usersguide.pdf)
+- [30分钟学会ggplot2](https://cos.name/wp-content/uploads/2012/05/3-xiaokai-ggplot2.pdf)
+- [R Graphics Cookbook](https://ase.tufts.edu/bugs/guide/assets/R%20Graphics%20Cookbook.pdf)
 
-#### English
+#### Linux&Shell
 
 - [The Linux Command Line](http://linuxcommand.org/)
+- [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/abs-guide.pdf)
+- [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/)
+- [菜鸟教程](http://www.runoob.com/)
+
+#### Python
+
 - [Learning Python, 5th Edition](http://shop.oreilly.com/product/0636920028154.do)
 - [Python Examples](https://github.com/geekcomputers/Python)
+- [Learning Python](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python,%205th%20Edition.pdf)
+- [Python学习手册](https://www.gitbook.com/download/pdf/book/yulongjun/learning-python-in-chinese)
+
+#### C/C++
+
+- [C Primer Plus](https://doc.lagout.org/programmation/C/C%20Primer%20Plus%20%286th%20ed.%29%20%5BPrata%202013-12-06%5D.pdf)
+- [C++ Primer Plus 6th Edition](http://freepdf-books.com/download/?file=5587)
+
+#### JAVA
+
+- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
+
+#### Statistics
+
+[SPSS Beginners Tutorials](https://www.spss-tutorials.com/basics/)
+
+#### Git
+
+- [Git tutorials](https://www.atlassian.com/git/tutorials)
+- [Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [Github Guides](https://guides.github.com/activities/hello-world/)
+
 
 ## Skills
 
