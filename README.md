@@ -189,6 +189,7 @@
 
 - [The Linux Command Line](http://linuxcommand.org/)
 - [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/abs-guide.pdf)
+- [Wicked Cool Shell Scripts](http://shop.oreilly.com/product/9781593276027.do)
 - [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/)
 - [菜鸟教程](http://www.runoob.com/)
 
