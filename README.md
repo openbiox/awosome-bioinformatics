@@ -75,6 +75,7 @@
 - [DAVID Bioinformatics Resources](https://david.ncifcrf.gov/)
 - [cBioPortal](http://www.cbioportal.org/)
 - [Oncotator](http://portals.broadinstitute.org/oncotator/)
+- [QIAGEN Analysis Platform](https://www.qiagenbioinformatics.com/)
 
 #### Local tools
 
@@ -166,9 +167,16 @@
 - [bcl2fastq2](https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)
 - [ucsc_utils](http://hgdownload.cse.ucsc.edu/admin/exe/)
 
+##### Statistical and Visualization Softwares
+
+- [medcalc](https://www.medcalc.org/index.php)
+- [GraphPad](http://www.graphpad.com/)
+- [ImageJ](https://imagej.nih.gov/ij/download.html)
+- [SPSS](https://en.wikipedia.org/wiki/SPSS)
+- [R](https://www.r-project.org/)
+
 ##### Other
 
-- [ImageJ](https://imagej.nih.gov/ij/download.html)
 - [igraph](https://github.com/igraph/igraph)
 - [root](https://root.cern.ch/)
 - [boost](http://www.boost.org/)
@@ -211,7 +219,7 @@
 
 #### Statistics
 
-[SPSS Beginners Tutorials](https://www.spss-tutorials.com/basics/)
+- [SPSS Beginners Tutorials](https://www.spss-tutorials.com/basics/)
 
 #### Git
 
@@ -219,6 +227,10 @@
 - [Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [Github Guides](https://guides.github.com/activities/hello-world/)
 
+#### Bioinfomatics
+
+- [华大基因生物信息学培训教材](http://pan.baidu.com/s/1geCw0uR)
+- [生物信息学入门](http://pan.baidu.com/s/1geWFjnt)
 
 ## Skills
 
