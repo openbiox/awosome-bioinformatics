@@ -76,6 +76,7 @@
 - [cBioPortal](http://www.cbioportal.org/)
 - [Oncotator](http://portals.broadinstitute.org/oncotator/)
 - [QIAGEN Analysis Platform](https://www.qiagenbioinformatics.com/)
+- [Wordcloud](https://www.jasondavies.com/wordcloud/)
 
 #### Local tools
 
@@ -181,6 +182,7 @@
 - [root](https://root.cern.ch/)
 - [boost](http://www.boost.org/)
 - [libtbb](https://github.com/01org/tbb)
+- [docker](https://www.docker.com/)
 
 ### Books&Tutorial
 
@@ -194,6 +196,8 @@
 - [R Graphics Cookbook](https://ase.tufts.edu/bugs/guide/assets/R%20Graphics%20Cookbook.pdf)
 - [Introduction to data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
 - [RSQLite](https://cran.r-project.org/web/packages/RSQLite/vignettes/RSQLite.html)
+- [R Graphics](https://www.stat.auckland.ac.nz/~paul/RGraphics/rgraphics.html)
+- [Wordcloud2](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html)
 
 #### Linux&Shell
 
@@ -228,6 +232,11 @@
 - [Git tutorials](https://www.atlassian.com/git/tutorials)
 - [Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [Github Guides](https://guides.github.com/activities/hello-world/)
+
+#### Cloud
+
+- [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
+- [Docker入门教程](http://dockone.io/article/111)
 
 #### Bioinfomatics
 
