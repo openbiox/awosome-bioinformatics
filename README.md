@@ -2,7 +2,7 @@
 
 **Abstract**: A curated list of resources for learning bioinformatics.
 
-**Purpose**: 
+**Purpose**:
 
 - Provide some of bioinformatics learning resources for beginners
 - Provide a profiling of bioinformatics
@@ -12,7 +12,7 @@
 - Next generation sequencing (NGS)
 - Bioinformatics Data Analysis
 
-**Contents**: 
+**Contents**:
 
 - [Resources](#resources)
     - [General](#general)
@@ -175,6 +175,37 @@
 - [ImageJ](https://imagej.nih.gov/ij/download.html)
 - [SPSS](https://en.wikipedia.org/wiki/SPSS)
 - [R](https://www.r-project.org/)
+
+##### Text editor and IDE
+
+- [Vim](http://www.vim.org/)
+- [Emacs](http://www.gnuemacs.org/)
+- [Atom](https://atom.io/)
+- [Sublime](http://www.sublimetext.com/)
+- [Rstudio](https://www.rstudio.com/)
+- [Eclipse](https://www.eclipse.org/downloads/)
+- [PyCharm](http://www.jetbrains.com/pycharm/)
+- [Visual Studio](https://www.visualstudio.com/)
+
+
+##### Remote Connection (SSH)
+
+- [mobaXterm](http://mobaxterm.mobatek.net/)
+- [Cygwin](http://www.cygwin.com/)
+- [Xshell & Xsftp](http://www.netsarang.com/products/xsh_overview.html)
+- [Putty](http://www.putty.org/)
+
+##### Remote Connection (Desktop)
+
+- [Teamviewer](https://www.teamviewer.com/)
+- [Sunlogin](https://sunlogin.oray.com)
+- [Splashtop](http://www.splashtop.com/)
+- [Chrome Remote Desktop app](https://support.google.com/chrome/answer/1649523?hl=en)
+- [Logmein](https://secure.logmein.com/)
+- [PC Anywhere](http://in.norton.com/symantec-pcanywhere/)
+- [GoToMyPC](http://www.gotomypc.com/remote-access/)
+- [Radmin](http://www.radmin.com/)
+- [UltraVNC](http://pcsupport.about.com/od/remote-access/fl/ultravnc-review.htm) 
 
 ##### Other
 
