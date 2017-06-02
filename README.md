@@ -77,6 +77,7 @@
 - [Oncotator](http://portals.broadinstitute.org/oncotator/)
 - [QIAGEN Analysis Platform](https://www.qiagenbioinformatics.com/)
 - [Wordcloud](https://www.jasondavies.com/wordcloud/)
+- [Omictools](https://omictools.com/sequencing-category)
 
 #### Local tools
 
@@ -205,7 +206,7 @@
 - [PC Anywhere](http://in.norton.com/symantec-pcanywhere/)
 - [GoToMyPC](http://www.gotomypc.com/remote-access/)
 - [Radmin](http://www.radmin.com/)
-- [UltraVNC](http://pcsupport.about.com/od/remote-access/fl/ultravnc-review.htm) 
+- [UltraVNC](http://pcsupport.about.com/od/remote-access/fl/ultravnc-review.htm)
 
 ##### Other
 
