@@ -15,10 +15,12 @@
 **Contents**:
 
 - [Resources](#resources)
-    - [General](#general)
-    - [Journal](#journal)
-    - [Tools](#tools)
-    - [Books&Tutorial](#bookstutorial)
+
+  - [General](#general)
+  - [Journal](#journal)
+  - [Tools](#tools)
+  - [Books&Tutorial](#bookstutorial)
+
 - [Skills](#skills)
 - [Institute](#institute)
 - [People](#people)
@@ -39,7 +41,6 @@
 - [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/)
 - [Nucleic Acids Research](https://academic.oup.com/nar/pages/About)
 - [Genome Research](http://genome.cshlp.org/)
-
 
 ### Tools
 
@@ -188,7 +189,6 @@
 - [PyCharm](http://www.jetbrains.com/pycharm/)
 - [Visual Studio](https://www.visualstudio.com/)
 
-
 ##### Remote Connection (SSH)
 
 - [mobaXterm](http://mobaxterm.mobatek.net/)
@@ -274,6 +274,7 @@
 
 - [华大基因生物信息学培训教材](http://pan.baidu.com/s/1geCw0uR)
 - [生物信息学入门](http://pan.baidu.com/s/1geWFjnt)
+- [生信菜鸟团](http://www.bio-info-trainee.com/)
 
 ## Skills
 
@@ -330,8 +331,7 @@
 - [Brendan J. Frey](http://www.psi.toronto.edu/~frey/)
 - [Jinghui Zhang](https://www.stjude.org/directory/z/jinghui-zhang.html)
 
-
 ### Contributors
 
-* [Jianfeng Li](https://github.com/Miachol)
-* [Bowen Cui](https://github.com/xcpanda)
+- [Jianfeng Li](https://github.com/Miachol)
+- [Bowen Cui](https://github.com/xcpanda)
