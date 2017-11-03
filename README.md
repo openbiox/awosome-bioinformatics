@@ -79,6 +79,7 @@
 - [QIAGEN Analysis Platform](https://www.qiagenbioinformatics.com/)
 - [Wordcloud](https://www.jasondavies.com/wordcloud/)
 - [Omictools](https://omictools.com/sequencing-category)
+- [CSCD - Cancer-specific circular RNAs database](http://gb.whu.edu.cn/CSCD/)
 
 #### Local tools
 
@@ -89,6 +90,9 @@
 - [SolexaQA](https://sourceforge.net/projects/solexaqa)
 - [fastx_toolkit](https://github.com/agordon/fastx_toolkit)
 - [picard](https://github.com/broadinstitute/picard)
+- [ngsqctoolkit](http://14.139.61.3:8080/ngsqctoolkit/)
+- [MultiQC](https://github.com/ewels/MultiQC)
+- [mosdepth](https://github.com/brentp/mosdepth)
 
 ##### Alignment And Assembly
 
@@ -109,6 +113,7 @@
 - [Trinity](https://github.com/trinityrnaseq/trinityrnaseq)
 - [MapSplice2](http://www.netlab.uky.edu/p/bioinfo/MapSplice2)
 - [RUM](https://github.com/itmat/rum)
+- [MECAT](https://github.com/xiaochuanle/MECAT)
 
 ##### Variant Detection (SNVs, INDELs, SVs)
 
@@ -126,11 +131,15 @@
 - [breakdancer](https://github.com/genome/breakdancer)
 - [delly](https://github.com/dellytools/delly)
 - [CNVkit](https://github.com/etal/cnvkit)
+- [speedseq](https://github.com/hall-lab/speedseq)
 
 ##### Variant Annotation
 
 - [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/)
 - [SnpEff](http://snpeff.sourceforge.net/index.html)
+- [gemini](https://github.com/arq5x/gemini)
+- [VEP](http://www.ensembl.org/info/docs/tools/vep/index.html)
+- [Variant Annotation Integrator](http://genome.ucsc.edu/cgi-bin/hgVai)
 
 ##### Gene Expression Data Analysis
 
@@ -138,6 +147,11 @@
 - [DESeq2](http://www.bioconductor.org/packages/release/bioc/html/DESeq2.html)
 - [edgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html)
 - [HTSeq](https://github.com/simon-anders/htseq)
+- [sRNAnalyzer](http://srnanalyzer.systemsbiology.net/)
+
+##### Expression Quantitative Trait Loci, eQTL
+
+- [CaVEMaN](https://github.com/funpopgen/CaVEMaN)
 
 ##### ChIP-seq analysis
 
@@ -145,6 +159,12 @@
 - [CEAS](http://liulab.dfci.harvard.edu/CEAS/)
 - [MDSeqPos](https://bitbucket.org/cistrome/cistrome-applications-harvard/src/c477732c5c88/mdseqpos/)
 - [conservation_plot](https://github.com/taoliu/taolib/blob/master/Scripts/conservation_plot.py)
+
+##### Work flow
+
+- [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
+- [nextflow](https://github.com/nextflow-io/nextflow)
+- [orange3](https://github.com/biolab/orange3)
 
 ##### Utils
 
@@ -170,13 +190,20 @@
 - [bcl2fastq2](https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)
 - [ucsc_utils](http://hgdownload.cse.ucsc.edu/admin/exe/)
 
-##### Statistical and Visualization Softwares
+##### Statistical and Visualization
 
 - [medcalc](https://www.medcalc.org/index.php)
 - [GraphPad](http://www.graphpad.com/)
 - [ImageJ](https://imagej.nih.gov/ij/download.html)
 - [SPSS](https://en.wikipedia.org/wiki/SPSS)
 - [R](https://www.r-project.org/)
+- [gvmap](https://github.com/ytdai/gvmap)
+- [easySVG](https://github.com/ytdai/easySVG)
+- [hexmapr](https://github.com/sassalley/hexmapr)
+- [clustergrammer](https://github.com/MaayanLab/clustergrammer)
+- [chromVAR](https://github.com/GreenleafLab/chromVAR)
+- [echarts](https://github.com/ecomfe/echarts)
+- [plotly](https://github.com/plotly/plotly.js)
 
 ##### Text editor and IDE
 
