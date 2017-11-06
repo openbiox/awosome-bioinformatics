@@ -303,6 +303,7 @@
 - [生物信息学入门](http://pan.baidu.com/s/1jIb2Di2)
 - [《生物信息学入门最佳实践》](http://www.biotrainee.com/jmzeng/book/basic/)
 - [The Biostar Handbook: A Beginner's Guide to Bioinformatics](https://www.biostarhandbook.com/)
+- [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)
 - [生信菜鸟团博客](http://www.bio-info-trainee.com/)
 - [生信技能树论坛](https://vip.biotrainee.com)
 
