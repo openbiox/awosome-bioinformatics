@@ -315,6 +315,13 @@
 #### Statistics
 
 - [SPSS Beginners Tutorials](https://www.spss-tutorials.com/basics/)
+- [维基百科 - K-Means聚类算法](https://en.wikipedia.org/wiki/K-means_clustering)
+- [维基百科 - KNN算法](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [维基百科 - SVM算法](https://en.wikipedia.org/wiki/Support_vector_machine)
+- [维基百科 - HMM模型](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+- [维基百科 - KNN算法](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [STAT115课程 - HMM算法PPT](https://github.com/Miachol/ftp/raw/master/files/ppt/STAT115_HMM.ppt)
+- [机器学习常用算法](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms)
 
 #### Git
 
@@ -396,3 +403,4 @@
 
 - [Jianfeng Li](https://github.com/Miachol)
 - [Bowen Cui](https://github.com/xcpanda)
+- [Shixiang Wang](https://github.com/ShixiangWang)
