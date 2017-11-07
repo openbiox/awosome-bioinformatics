@@ -322,6 +322,7 @@
 - [维基百科 - KNN算法](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 - [STAT115课程 - HMM算法PPT](https://github.com/Miachol/ftp/raw/master/files/ppt/STAT115_HMM.ppt)
 - [机器学习常用算法](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms)
+- [机器学习资源列表](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
 
 #### Git
 
