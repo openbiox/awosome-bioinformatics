@@ -68,18 +68,43 @@
 
 - [UCSC](https://genome.ucsc.edu/)
 - [NCBI](https://www.ncbi.nlm.nih.gov/)
+  - [CDD](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml)
 - [ExPASy](http://www.expasy.org/)
 - [EMBL-EBI](http://www.ebi.ac.uk/)
 - [TCGA](https://cancergenome.nih.gov/)
 - [COSMIC](http://cancer.sanger.ac.uk/cosmic)
 - [St. Jude PeCan Data Portal](https://pecan.stjude.org/#/home)
+- [BIG Data Center](http://bigd.big.ac.cn/)
 - [DAVID Bioinformatics Resources](https://david.ncifcrf.gov/)
 - [cBioPortal](http://www.cbioportal.org/)
+  - [Oncoprinter](http://www.cbioportal.org/oncoprinter.jsp)
+  - [MutationMapper](http://www.cbioportal.org/mutation_mapper.jsp)
 - [Oncotator](http://portals.broadinstitute.org/oncotator/)
 - [QIAGEN Analysis Platform](https://www.qiagenbioinformatics.com/)
 - [Wordcloud](https://www.jasondavies.com/wordcloud/)
 - [Omictools](https://omictools.com/sequencing-category)
 - [CSCD - Cancer-specific circular RNAs database](http://gb.whu.edu.cn/CSCD/)
+- [iCoMut](http://firebrowse.org/iCoMut/?cohort=LAML)
+- [UniProt](http://www.uniprot.org/)
+- [Pfam](http://pfam.xfam.org/)
+- [SMART](http://smart.embl-heidelberg.de/help/smart_glossary.shtml)
+- [STRING](https://string-db.org/)
+- [DiseaseEnhancer](http://biocc.hrbmu.edu.cn/DiseaseEnhancer/)
+- [SEECancer](http://biocc.hrbmu.edu.cn/SEECancer/)
+- [eQTL Browser](http://eqtl.rc.fas.harvard.edu/eqtlbrowser/about.html)
+- [Cistrome Project](http://www.cistrome.org/Cistrome/Cistrome_Project.html)
+  - [Cistrome Data Browser](http://cistrome.org/db/#/)
+  - [Cistrome Cancer](http://cistrome.org/CistromeCancer/)
+  - [Chromatin Regulator Cistrome](http://cistrome.org/cr/)
+
+#### Sequencing Data Portal
+
+- [GDC](https://portal.gdc.cancer.gov/)
+- [EGA](https://www.ebi.ac.uk/ega/home)
+- [dbGaP](https://www.ncbi.nlm.nih.gov/gap)
+- [DDBJ](http://www.ddbj.nig.ac.jp/)
+- [GEO](https://www.ncbi.nlm.nih.gov/geo/)
+- [ICGC](https://dcc.icgc.org/)
 
 #### Local tools
 
@@ -132,6 +157,9 @@
 - [delly](https://github.com/dellytools/delly)
 - [CNVkit](https://github.com/etal/cnvkit)
 - [speedseq](https://github.com/hall-lab/speedseq)
+- [GRIDSS](https://github.com/PapenfussLab/gridss)
+- [PancanQTL](http://bioinfo.life.hust.edu.cn/PancanQTL/)
+- [TumorFusions](http://www.tumorfusions.org/)
 
 ##### Variant Annotation
 
@@ -189,6 +217,8 @@
 - [sratools](http://ncbi.github.io/sra-tools/)
 - [bcl2fastq2](https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)
 - [ucsc_utils](http://hgdownload.cse.ucsc.edu/admin/exe/)
+- [MeQA](http://life.tongji.edu.cn/meqa/index.html)
+- [IdCheck](http://eqtl.rc.fas.harvard.edu/idcheck/)
 
 ##### Statistical and Visualization
 
@@ -285,6 +315,14 @@
 #### Statistics
 
 - [SPSS Beginners Tutorials](https://www.spss-tutorials.com/basics/)
+- [维基百科 - K-Means聚类算法](https://en.wikipedia.org/wiki/K-means_clustering)
+- [维基百科 - KNN算法](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [维基百科 - SVM算法](https://en.wikipedia.org/wiki/Support_vector_machine)
+- [维基百科 - HMM模型](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+- [维基百科 - KNN算法](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [STAT115课程 - HMM算法PPT](https://github.com/Miachol/ftp/raw/master/files/ppt/STAT115_HMM.ppt)
+- [机器学习常用算法](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms)
+- [机器学习资源列表](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
 
 #### Git
 
@@ -366,3 +404,4 @@
 
 - [Jianfeng Li](https://github.com/Miachol)
 - [Bowen Cui](https://github.com/xcpanda)
+- [Shixiang Wang](https://github.com/ShixiangWang)
