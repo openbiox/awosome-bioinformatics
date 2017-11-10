@@ -24,7 +24,7 @@
 - [Skills](#skills)
 - [Institute](#institute)
 - [People](#people)
-- [Contributions](#contributions)
+- [Contributions](#contributors)
 
 ## Resources
 
