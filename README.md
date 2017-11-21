@@ -96,6 +96,14 @@
   - [Cistrome Data Browser](http://cistrome.org/db/#/)
   - [Cistrome Cancer](http://cistrome.org/CistromeCancer/)
   - [Chromatin Regulator Cistrome](http://cistrome.org/cr/)
+- [CIViC](https://civic.genome.wustl.edu/home)
+- [VarCards](http://varcards.biols.ac.cn/)
+- [superdrug2](http://cheminfo.charite.de/superdrug2/)
+- [MeDReaders](http://medreader.org)
+- [ECOdrug](http://www.ecodrug.org/)
+- [rSNPBase3.0](http://rsnp3.psych.ac.cn/index.do)
+- [MNDR](http://www.rna-society.org/mndr/)
+- [MSDD](http://www.bio-bigdata.com/msdd/)
 
 #### Sequencing Data Portal
 
