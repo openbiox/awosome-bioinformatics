@@ -104,6 +104,15 @@
 - [rSNPBase3.0](http://rsnp3.psych.ac.cn/index.do)
 - [MNDR](http://www.rna-society.org/mndr/)
 - [MSDD](http://www.bio-bigdata.com/msdd/)
+- [funcoup](http://funcoup.sbc.su.se/search/)
+- [proteinatlas](https://www.proteinatlas.org/)
+- [DGIdb](http://dgidb.org/)
+- [Drugbank](https://www.drugbank.ca)
+- [InterPro](http://www.ebi.ac.uk/interpro)
+- [ncbi-biosystems](https://www.ncbi.nlm.nih.gov/biosystems)
+- [denovo-db](http://denovo-db.gs.washington.edu/denovo-db)
+- [The Human Phenotype Ontology (HPO)](http://human-phenotype-ontology.github.io)
+- 
 
 #### Sequencing Data Portal
 
@@ -184,6 +193,10 @@
 - [edgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html)
 - [HTSeq](https://github.com/simon-anders/htseq)
 - [sRNAnalyzer](http://srnanalyzer.systemsbiology.net/)
+
+##### Protein Data Related
+
+- [interproscan](http://www.ebi.ac.uk/interpro)
 
 ##### Expression Quantitative Trait Loci, eQTL
 
@@ -415,3 +428,4 @@
 - [Jianfeng Li](https://github.com/Miachol)
 - [Bowen Cui](https://github.com/xcpanda)
 - [Shixiang Wang](https://github.com/ShixiangWang)
+- [l0o0](https://github.com/l0o0)
