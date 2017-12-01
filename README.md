@@ -83,7 +83,6 @@
 - [QIAGEN Analysis Platform](https://www.qiagenbioinformatics.com/)
 - [Wordcloud](https://www.jasondavies.com/wordcloud/)
 - [Omictools](https://omictools.com/sequencing-category)
-- [CSCD - Cancer-specific circular RNAs database](http://gb.whu.edu.cn/CSCD/)
 - [iCoMut](http://firebrowse.org/iCoMut/?cohort=LAML)
 - [UniProt](http://www.uniprot.org/)
 - [Pfam](http://pfam.xfam.org/)
@@ -112,7 +111,15 @@
 - [ncbi-biosystems](https://www.ncbi.nlm.nih.gov/biosystems)
 - [denovo-db](http://denovo-db.gs.washington.edu/denovo-db)
 - [The Human Phenotype Ontology (HPO)](http://human-phenotype-ontology.github.io)
-- 
+
+##### Noncoding RNA Related Database
+
+- [CSCD - Cancer-specific circular RNAs database](http://gb.whu.edu.cn/CSCD/)
+- [AtCircDB](http://genome.sdau.edu.cn/circRNA/index.php)
+- [CircNet](http://circnet.mbc.nctu.edu.tw/)
+- [circBase](http://circrna.org/)
+- [circRNADb](http://202.195.183.4:8000/circrnadb/circRNADb.php)
+- [exoRBase](http://www.exorbase.org/exoRBase/toIndex)
 
 #### Sequencing Data Portal
 
