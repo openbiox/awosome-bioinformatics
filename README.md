@@ -1,6 +1,6 @@
 # Bioinformatics-Resources
 
-**Abstract**: A curated list of resources for learning bioinformatics.
+**Abstract**: A curated list of resources for learning bioinformatics. Some of this repo resources were collected by [BioInstaller](https://github.com/JhuangLab/BioInstaller/blob/master/inst/extdata/config/db/db_meta.toml) project. You can use [BioInstaller](https://github.com/JhuangLab/BioInstaller) to directly download the source code or database files, or fetch the meta information by `BioInstaller::get.meta()$item`.
 
 **Purpose**:
 
@@ -24,7 +24,7 @@
 - [Skills](#skills)
 - [Institute](#institute)
 - [People](#people)
-- [Contributions](#contributors)
+- [Contributors](#contributors)
 
 ## Resources
 
