@@ -111,6 +111,7 @@
 - [ncbi-biosystems](https://www.ncbi.nlm.nih.gov/biosystems)
 - [denovo-db](http://denovo-db.gs.washington.edu/denovo-db)
 - [The Human Phenotype Ontology (HPO)](http://human-phenotype-ontology.github.io)
+- [FANTOM](http://fantom.gsc.riken.jp)
 
 ##### Noncoding RNA Related Database
 
