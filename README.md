@@ -121,6 +121,12 @@
 - [circRNADb](http://202.195.183.4:8000/circrnadb/circRNADb.php)
 - [exoRBase](http://www.exorbase.org/exoRBase/toIndex)
 
+##### eQTL Related Database
+
+- [exsnp](http://www.exsnp.org)
+- [rVarBase](http://rv.psych.ac.cn)
+- [seeQTL](http://www.bios.unc.edu/research/genomic_software/seeQTL/)
+
 #### Sequencing Data Portal
 
 - [GDC](https://portal.gdc.cancer.gov/)
