@@ -112,6 +112,13 @@
 - [denovo-db](http://denovo-db.gs.washington.edu/denovo-db)
 - [The Human Phenotype Ontology (HPO)](http://human-phenotype-ontology.github.io)
 - [FANTOM](http://fantom.gsc.riken.jp)
+- [dbNSFP](https://sites.google.com/site/jpopgen/dbNSFP)
+- [regSNP-intron](http://clark.compbio.iupui.edu/regsnp_intron_web/)
+- [RADAR](http://rnaedit.com/)
+- [DARNED](http://darned.ucc.ie/)
+- [REDIportal](http://srv00.recas.ba.infn.it/atlas/)
+- [LNCediting](http://bioinfo.life.hust.edu.cn/LNCediting)
+- [EggNOG](http://eggnogdb.embl.de/#/app/home)
 
 ##### Noncoding RNA Related Database
 
@@ -191,6 +198,9 @@
 - [GRIDSS](https://github.com/PapenfussLab/gridss)
 - [PancanQTL](http://bioinfo.life.hust.edu.cn/PancanQTL/)
 - [TumorFusions](http://www.tumorfusions.org/)
+- [SVScore](https://github.com/lganel/SVScore)
+- [SVTools](https://github.com/hall-lab/svtools)
+- [RDDpred](http://epigenomics.snu.ac.kr/RDDpred/)
 
 ##### Variant Annotation
 
@@ -199,6 +209,7 @@
 - [gemini](https://github.com/arq5x/gemini)
 - [VEP](http://www.ensembl.org/info/docs/tools/vep/index.html)
 - [Variant Annotation Integrator](http://genome.ucsc.edu/cgi-bin/hgVai)
+- [vcfanno](https://github.com/brentp/vcfanno)
 
 ##### Gene Expression Data Analysis
 
@@ -254,6 +265,7 @@
 - [ucsc_utils](http://hgdownload.cse.ucsc.edu/admin/exe/)
 - [MeQA](http://life.tongji.edu.cn/meqa/index.html)
 - [IdCheck](http://eqtl.rc.fas.harvard.edu/idcheck/)
+- [SAMBLASTER](https://github.com/GregoryFaust/samblaster)
 
 ##### Statistical and Visualization
 
@@ -436,6 +448,7 @@
 - [Pavel A. Pevzner](http://cseweb.ucsd.edu/~ppevzner/)
 - [Brendan J. Frey](http://www.psi.toronto.edu/~frey/)
 - [Jinghui Zhang](https://www.stjude.org/directory/z/jinghui-zhang.html)
+- [Ira M. Hall](http://genome.wustl.edu/people/individual/ira-hall/)
 
 ### Contributors
 
