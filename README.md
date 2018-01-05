@@ -95,7 +95,6 @@
   - [Cistrome Data Browser](http://cistrome.org/db/#/)
   - [Cistrome Cancer](http://cistrome.org/CistromeCancer/)
   - [Chromatin Regulator Cistrome](http://cistrome.org/cr/)
-- [CIViC](https://civic.genome.wustl.edu/home)
 - [VarCards](http://varcards.biols.ac.cn/)
 - [superdrug2](http://cheminfo.charite.de/superdrug2/)
 - [MeDReaders](http://medreader.org)
@@ -119,6 +118,21 @@
 - [REDIportal](http://srv00.recas.ba.infn.it/atlas/)
 - [LNCediting](http://bioinfo.life.hust.edu.cn/LNCediting)
 - [EggNOG](http://eggnogdb.embl.de/#/app/home)
+- [MiSTIC](https://github.com/iric-soft/MiSTIC)
+- [DTMiner](https://gdr-web.rwebox.com/public_html/index.php)
+- [PDBFlex](http://pdbflex.org/)
+- [Cancer3d](http://www.cancer3d.org/)
+- [Dsysmap](https://dsysmap.irbbarcelona.org/)
+
+##### Clinical Annotation
+
+- [CIViC](https://civic.genome.wustl.edu/home)
+- [DoCM](http://docm.genome.wustl.edu/)
+- [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)
+- [Intogen](https://www.intogen.org/downloads)
+- [Cancer Hotspots](http://cancerhotspots.org/#/home)
+- [DisGeNET](http://www.disgenet.org/web/DisGeNET/menu)
+- [Cancer Biomarkers database](https://www.cancergenomeinterpreter.org/biomarkers)
 
 ##### Noncoding RNA Related Database
 
@@ -128,6 +142,7 @@
 - [circBase](http://circrna.org/)
 - [circRNADb](http://202.195.183.4:8000/circrnadb/circRNADb.php)
 - [exoRBase](http://www.exorbase.org/exoRBase/toIndex)
+- [EVLncRNAs](http://biophy.dzu.edu.cn/EVLncRNAs.)
 
 ##### eQTL Related Database
 
@@ -156,6 +171,7 @@
 - [ngsqctoolkit](http://14.139.61.3:8080/ngsqctoolkit/)
 - [MultiQC](https://github.com/ewels/MultiQC)
 - [mosdepth](https://github.com/brentp/mosdepth)
+- [fastp](https://github.com/OpenGene/fastp)
 
 ##### Alignment And Assembly
 
@@ -201,6 +217,8 @@
 - [SVScore](https://github.com/lganel/SVScore)
 - [SVTools](https://github.com/hall-lab/svtools)
 - [RDDpred](http://epigenomics.snu.ac.kr/RDDpred/)
+- [iseq](https://github.com/JhuangLab/iseq)
+- [deepvariant](https://github.com/google/deepvariant)
 
 ##### Variant Annotation
 
@@ -210,6 +228,18 @@
 - [VEP](http://www.ensembl.org/info/docs/tools/vep/index.html)
 - [Variant Annotation Integrator](http://genome.ucsc.edu/cgi-bin/hgVai)
 - [vcfanno](https://github.com/brentp/vcfanno)
+- [pcgr](https://github.com/sigven/pcgr)
+- [annovarR](https://github.com/JhuangLab/annovarR)
+
+##### Variant Screen
+
+- [LARVA](http://larva.gersteinlab.org/)
+- [DANN](https://cbcl.ics.uci.edu/public_data/DANN)
+
+##### Alternative Splicing
+
+- [LeafCutter](https://github.com/davidaknowles/leafcutter)
+- [rMATS](http://rnaseq-mats.sourceforge.net/rmats3.2.5/)
 
 ##### Gene Expression Data Analysis
 
@@ -218,6 +248,16 @@
 - [edgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html)
 - [HTSeq](https://github.com/simon-anders/htseq)
 - [sRNAnalyzer](http://srnanalyzer.systemsbiology.net/)
+
+##### Virus Related
+
+- [viral-ngs](https://github.com/broadinstitute/viral-ngs)
+- [qap](https://github.com/mingjiewang/qap)
+
+##### Single Cell
+
+- [seurat](https://github.com/satijalab/seurat)
+- [SCnorm](http://www.biostat.wisc.edu/~kendzior/SCNORM/)
 
 ##### Protein Data Related
 
@@ -233,6 +273,11 @@
 - [CEAS](http://liulab.dfci.harvard.edu/CEAS/)
 - [MDSeqPos](https://bitbucket.org/cistrome/cistrome-applications-harvard/src/c477732c5c88/mdseqpos/)
 - [conservation_plot](https://github.com/taoliu/taolib/blob/master/Scripts/conservation_plot.py)
+
+##### Primer Design
+
+- [CEMAsuite](https://sourceforge.net/projects/cemasuite/)
+- [Primer3plus](http://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi)
 
 ##### Work flow
 
@@ -266,6 +311,9 @@
 - [MeQA](http://life.tongji.edu.cn/meqa/index.html)
 - [IdCheck](http://eqtl.rc.fas.harvard.edu/idcheck/)
 - [SAMBLASTER](https://github.com/GregoryFaust/samblaster)
+- [ngstk](https://github.com/JhuangLab/ngstk)
+- [BioInstaller](https://github.com/JhuangLab/BioInstaller)
+- [ChromHMM](https://github.com/jernst98/ChromHMM)
 
 ##### Statistical and Visualization
 
