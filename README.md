@@ -18,6 +18,7 @@
 
   - [General](#general)
   - [Journal](#journal)
+  - [Sequencing Technology](#sequencing-technology)
   - [Tools](#tools)
   - [Books&Tutorial](#bookstutorial)
 
@@ -41,6 +42,249 @@
 - [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/)
 - [Nucleic Acids Research](https://academic.oup.com/nar/pages/About)
 - [Genome Research](http://genome.cshlp.org/)
+
+### Sequencing Technology
+
+This section mainly copied from [enseqlopedia](http://enseqlopedia.com/enseqlopedia/).
+
+Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS methods naming. Nat Methods 15, 7-8 (2018).
+
+#### RNA Sequencing Methods
+
+##### **[Low-Level RNA Detection](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/)**
+
+  - [CEL-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/cel-seq/)
+  - [CirSeq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/cirseq/)
+  - [CLaP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/clap/)
+  - [CytoSeq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/cytoseq/)
+  - [Digital RNA Sequencing](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/digital-rna-sequencing/)
+  - [DP-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/dp-seq/)
+  - [Drop-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/drop-seq/)
+  - [Hi-SCL](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/hi-scl/)
+  - [InDrop](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/indrop/)
+  - [MARS-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/mars-seq/)
+  - [Nuc-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/nuc-seq/)
+  - [PAIR](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/pair/)
+  - [Quartz-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/quartz-seq/)
+  - [scM&amp;T-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/scmt-seq-2/)
+  - [SCRB-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/scrb-seq/)
+  - [scRNA-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/scrna-seq/)
+  - [scTrio-seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/sctrio-seq/)
+  - [Smart-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/smart-seq/)
+  - [Smart-Seq2](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/smart-seq2/)
+  - [snRNA-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/snrna-seq/)
+  - [STRT-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/strt-seq/)
+  - [SUPeR-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/super-seq/)
+  - [TCR-LA-MC PCR](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/tcr-la-mc-pcr/)
+  - [TIVA](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/tiva/)
+  - [UMI](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/umi/)
+  - [5C](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/5c/)
+  - [Div-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/div-seq/)
+  - [FRISCR](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/friscr/)
+  - [TCR Chain Pairing](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/tcr-chain-pairing/)
+  - [AbPair](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/low-level-rna-detection/abpair/)
+
+##### **[RNA Modifications](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-modifications/)**
+
+  - [ICE](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-modifications/ice/)
+  - [MeRIP-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-modifications/merip-seq/)
+  - [miCLIP-m6A](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-modifications/miclip-m6a/)
+  - [Pseudo-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-modifications/pseudo-seq/)
+  - [PSI-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-modifications/psi-seq/)
+
+##### **[RNA Structure](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/)**
+
+  - [CAP-seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/cap-seq/)
+  - [Cap-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/cap-seq-2/)
+  - [CIP-TAP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/cip-tap/)
+  - [PARS-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/pars-seq/)
+  - [SPARE](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/spare/)
+  - [Structure-Seq/DMS-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/structure-seqdms-seq/)
+  - [CIRS-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/cirs-seq/)
+  - [icSHAPE](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/icshape/)
+  - [SHAPE-MaP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/shape-map/)
+  - [SHAPE-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-structure/shape-seq/)
+
+##### **[RNA Transcription](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/)**
+
+  - [2P-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/2p-seq/)
+  - [3&#39;NT Method](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/3nt-method/)
+  - [3P-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/3p-seq/)
+  - [3Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/3seq/)
+  - [3′-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/3-seq/)
+  - [5′-GRO-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/5-gro-seq/)
+  - [BruChase-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/bruchase-seq/)
+  - [BruDRB-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/brudrb-seq/)
+  - [Bru-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/bru-seq/)
+  - [CAGE](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/cage/)
+  - [CHART](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/chart/)
+  - [ChIRP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/chirp/)
+  - [ClickSeq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/clickseq/)
+  - [GRO-seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/gro-seq/)
+  - [NET-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/net-seq/)
+  - [PAL-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/pal-seq/)
+  - [PARE-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/pare-seq/)
+  - [PEAT](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/peat/)
+  - [PRO-Cap](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/pro-cap/)
+  - [PRO-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/pro-seq/)
+  - [RAP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/rap/)
+  - [RARseq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/rarseq/)
+  - [RASL-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/rasl-seq/)
+  - [RNA-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/rna-seq/)
+  - [SMORE-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/smore-seq/)
+  - [TAIL-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/tail-seq/)
+  - [TATL-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/tatl-seq/)
+  - [TIF-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/tif-seq/)
+  - [TL-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/tl-seq/)
+  - [4sUDRB-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/4sudrb-seq/)
+  - [CaptureSeq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/captureseq/)
+  - [cP-RNA-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/cp-rna-seq/)
+  - [FRT-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/frt-seq/)
+  - [GMUCT](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/gmuct/)
+  - [mNET-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-transcription/mnet-seq/)
+
+##### **[RNA-Protein Interactions](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/)**
+
+  - [AGO-CLIP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/ago-clip/)
+  - [CLASH](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/clash/)
+  - [CLIP-Seq or HITS-CLIP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/clip-seq-or-hits-clip/)
+  - [DLAF](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/dlaf/)
+  - [eCLIP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/eclip/)
+  - [hiCLIP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/hiclip/)
+  - [iCLIP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/iclip/)
+  - [miR-CLIP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/mir-clip/)
+  - [miTRAP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/mitrap/)
+  - [PAR-CLIP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/par-clip/)
+  - [PIP-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/pip-seq/)
+  - [Pol II CLIP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/pol-ii-clip/)
+  - [RBNS](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/rbns/)
+  - [Ribo-Seq or ARTSeq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/ribo-seq-or-artseq/)
+  - [RIP-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/rip-seq/)
+  - [TRAP-Seq](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/trap-seq/)
+  - [TRIBE](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/tribe/)
+  - [BrdU-CLIP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/brdu-clip/)
+  - [HiTS-RAP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/hits-rap/)
+  - [irCLIP](http://enseqlopedia.com/wiki-entry/rna-sequencing-methods/rna-protein-interactions/irclip/)
+
+#### **DNA Sequencing Methods**
+
+##### **[Protein-Protein Interaction](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/protein-protein-interaction/)**
+
+  - [PD-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/protein-protein-interaction/pd-seq/)
+  - [ProP-PD/PDZ-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/protein-protein-interaction/prop-pdpdz-seq/)
+
+##### **[Sequence Rearrangements](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/)**
+
+  - [2b-RAD](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/2b-rad/)
+  - [CPT-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/cpt-seq/)
+  - [ddRADseq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/ddradseq/)
+  - [Digenome-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/digenome-seq/)
+  - [EC-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/ec-seq/)
+  - [hyRAD](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/hyrad/)
+  - [RAD-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/rad-seq/)
+  - [Rapture](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/rapture/)
+  - [RC-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/rc-seq/)
+  - [Repli-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/repli-seq/)
+  - [SLAF-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/slaf-seq/)
+  - [TC-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/tc-seq/)
+  - [Tn-Seq/INSeq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/tn-seqinseq/)
+  - [Bubble-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/bubble-seq/)
+  - [NSCR](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/nscr/)
+  - [NS-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/ns-seq/)
+  - [Rep-Seq/Ig-Seq/MAF](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/sequence-rearrangements/rep-seqig-seqmaf/)
+
+##### **[DNA Break Mapping](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-break-mapping/)**
+  - [BLESS](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-break-mapping/bless/)
+  - [DSB-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-break-mapping/dsb-seq/)
+  - [GUIDE-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-break-mapping/guide-seq/)
+  - [HTGTS](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-break-mapping/htgts/)
+  - [LAM-HTGTS](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-break-mapping/lam-htgts/)
+  - [Break-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-break-mapping/break-seq/)
+  - [SSB-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-break-mapping/ssb-seq/)
+
+##### **[DNA Protein Interactions](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/)**
+
+  - [DNaseI Seq or DNase-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/dnasei-seq-or-dnase-seq/)
+  - [Pu-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/pu-seq/)
+  - [3-C/Capture-C/Hi-C](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/3-ccapture-chi-c/)
+  - [4C-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/4c-seq/)
+  - [5C](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/5c/)
+  - [ATAC-Seq/Fast-ATAC](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/atac-seqfast-atac/)
+  - [CATCH\_IT](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/catch_it/)
+  - [Chem-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/chem-seq/)
+  - [ChIA-PET](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/chia-pet/)
+  - [ChIPmentation](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/chipmentation/)
+  - [ChIP-Seq/HT-ChIP/ChIP-exo/Mint-ChIP](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/chip-seqht-chipchip-exomint-chip/)
+  - [DamID](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/damid/)
+  - [DNase I SIM](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/dnase-i-sim/)
+  - [FAIRE-seq/Sono-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/faire-seqsono-seq/)
+  - [FiT-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/fit-seq/)
+  - [HiTS-FLIP](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/hits-flip/)
+  - [MINCE-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/mince-seq/)
+  - [MNase-Seq/MAINE-Sequcleo-Sequc-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/mnase-seqmaine-sequcleo-sequc-seq/)
+  - [MPE-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/mpe-seq/)
+  - [NG Capture-C](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/ng-capture-c/)
+  - [NOMe-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/nome-seq/)
+  - [ORGANIC](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/organic/)
+  - [PAT-ChIP](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/pat-chip/)
+  - [PB\_seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/pb_seq/)
+  - [SELEX or SELEX-seq / HT-SELEX](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/selex-or-selex-seq-ht-selex/)
+  - [THS-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/ths-seq/)
+  - [UMI-4C](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/umi-4c/)
+  - [X-ChIP-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/dna-protein-interactions/x-chip-seq/)
+
+##### **[Epigenetics](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/)**
+
+  - [Aba-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/aba-seq/)
+  - [BisChIP-Seq/ChIP-BS-Seq/ChIP-BMS](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/bischip-seqchip-bs-seqchip-bms/)
+  - [BSAS](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/bsas/)
+  - [BSPP](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/bspp/)
+  - [BS-Seq/Bisulfite-Seq/WGBS](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/bs-seqbisulfite-seqwgbs/)
+  - [CAB-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/cab-seq/)
+  - [EpiRADseq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/epiradseq/)
+  - [fCAB-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/fcab-seq/)
+  - [fC-CET](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/fc-cet/)
+  - [fC-Seal](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/fc-seal/)
+  - [hMeDIP-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/hmedip-seq/)
+  - [JBP1-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/jbp1-seq/)
+  - [MAB-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/mab-seq/)
+  - [MBDCap-seq/MethylCap-Seq/MiGS](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/mbdcap-seqmethylcap-seqmigs/)
+  - [MeDIP-Seq/DIP-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/medip-seqdip-seq/)
+  - [MIRA](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/mira/)
+  - [MRE-Seq and Methyl-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/mre-seq-and-methyl-seq/)
+  - [xBS-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/oxbs-seq/)
+  - [PBAT](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/pbat/)
+  - [redBS-Seq/caMAB-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/redbs-seqcamab-seq/)
+  - [RRBS-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/rrbs-seq/)
+  - [RRMAB-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/rrmab-seq/)
+  - [TAB-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/tab-seq/)
+  - [TAmC-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/tamc-seq/)
+  - [T-WGBS](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/t-wgbs/)
+
+##### **[Low-Level DNA Detection](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/)**
+
+  - [Safe-SeqS](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/safe-seqs/)
+  - [scAba-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/scaba-seq/)
+  - [scATAC-Seq (Cell index variation)](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/scatac-seq-cell-index-variation/)
+  - [scATAC-Seq (Microfluidics variation)](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/scatac-seq-microfluidics-variation/)
+  - [scBS-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/scbs-seq/)
+  - [scM&amp;T-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/scmt-seq/)
+  - [scRC-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/scrc-seq/)
+  - [SMDB](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/smdb/)
+  - [smMIP](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/smmip/)
+  - [G&amp;T-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/gt-seq/)
+  - [5C](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/5c/)
+  - [DR-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/dr-seq/)
+  - [G&amp;T-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/gt-seq-2/)
+  - [MALBAC](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/malbac/)
+  - [MDA](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/mda/)
+  - [MIDAS/IMS-MDA/ddMDA](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/midasims-mdaddmda/)
+  - [scM&amp;T-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/scmt-seq-2-2/)
+  - [Drop-ChIP/scChIP-seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/drop-chipscchip-seq/)
+  - [Duplex-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/duplex-seq/)
+  - [MIPSTR](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/mipstr/)
+  - [nuc-seq/SNES](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/nuc-seqsnes/)
+  - [OS-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/os-seq/)
 
 ### Tools
 
@@ -219,6 +463,7 @@
 - [RDDpred](http://epigenomics.snu.ac.kr/RDDpred/)
 - [iseq](https://github.com/JhuangLab/iseq)
 - [deepvariant](https://github.com/google/deepvariant)
+- [SV2](https://github.com/dantaki/SV2)
 
 ##### Variant Annotation
 
