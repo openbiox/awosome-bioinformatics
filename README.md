@@ -423,6 +423,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [MultiQC](https://github.com/ewels/MultiQC)
 - [mosdepth](https://github.com/brentp/mosdepth)
 - [fastp](https://github.com/OpenGene/fastp)
+- [ChronQC](https://github.com/nilesh-tawari/ChronQC)
 
 ##### Alignment And Assembly
 
@@ -444,6 +445,8 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [MapSplice2](http://www.netlab.uky.edu/p/bioinfo/MapSplice2)
 - [RUM](https://github.com/itmat/rum)
 - [MECAT](https://github.com/xiaochuanle/MECAT)
+- [DART](https://github.com/hsinnan75/DART)
+- [rHAT](https://github.com/HIT-Bioinformatics/rHAT)
 
 ##### Variant Detection (SNVs, INDELs, SVs)
 
