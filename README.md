@@ -12,7 +12,10 @@
 - Next generation sequencing (NGS)
 - Bioinformatics Data Analysis
 
-**Contents**:
+<details>
+<summary>Table of content</summary>
+
+## Table of content
 
 - [Resources](#resources)
 
@@ -23,9 +26,13 @@
   - [Books&Tutorial](#bookstutorial)
 
 - [Skills](#skills)
-- [Institute](#institute)
+- [Institute](#institute-or-business-company)
 - [People](#people)
 - [Contributors](#contributors)
+
+</details>
+
+---
 
 ## Resources
 
