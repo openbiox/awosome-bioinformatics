@@ -346,6 +346,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
   - [Cistrome Data Browser](http://cistrome.org/db/#/)
   - [Cistrome Cancer](http://cistrome.org/CistromeCancer/)
   - [Chromatin Regulator Cistrome](http://cistrome.org/cr/)
+  - [TIMER](http://cistrome.org/TIMER/)
 - [VarCards](http://varcards.biols.ac.cn/)
 - [superdrug2](http://cheminfo.charite.de/superdrug2/)
 - [MeDReaders](http://medreader.org)
@@ -474,6 +475,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [iseq](https://github.com/JhuangLab/iseq)
 - [deepvariant](https://github.com/google/deepvariant)
 - [SV2](https://github.com/dantaki/SV2)
+- [facets](https://github.com/mskcc/facets)
 
 ##### Variant Annotation
 
@@ -540,7 +542,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [nextflow](https://github.com/nextflow-io/nextflow)
 - [orange3](https://github.com/biolab/orange3)
 
-##### Utils
+##### Unclassified
 
 - [biopython](http://biopython.org/wiki/Biopython)
 - [IRanges](http://www.bioconductor.org/packages/release/bioc/html/IRanges.html)
@@ -569,6 +571,12 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [ngstk](https://github.com/JhuangLab/ngstk)
 - [BioInstaller](https://github.com/JhuangLab/BioInstaller)
 - [ChromHMM](https://github.com/jernst98/ChromHMM)
+- [ABSOLUTE](http://archive.broadinstitute.org/cancer/cga/absolute)
+- [HAPSEG](http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/HAPSEG/1)
+- [Atlas-SNP, Atlas2 Suite](https://sourceforge.net/p/atlas2)
+- [Beagle](http://faculty.washington.edu/browning/beagle/beagle.html)
+- [CIBERSORT](https://cibersort.stanford.edu/index.php)
+- [biobloom](https://github.com/bcgsc/biobloom)
 
 ##### Statistical and Visualization
 
@@ -675,6 +683,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [STAT115课程 - HMM算法PPT](https://github.com/Miachol/ftp/raw/master/files/ppt/STAT115_HMM.ppt)
 - [机器学习常用算法](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms)
 - [机器学习资源列表](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
+- [Review:Deep learning, genomics, and precision medicine](https://github.com/greenelab/deep-review)
 
 #### Git
 
