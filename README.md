@@ -388,7 +388,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 
 ##### Noncoding RNA Related Database
 
-- [CSCD - Cancer-specific circular RNAs database](http://gb.whu.edu.cn/CSCD/)
+- [CSCD](http://gb.whu.edu.cn/CSCD/)
 - [AtCircDB](http://genome.sdau.edu.cn/circRNA/index.php)
 - [CircNet](http://circnet.mbc.nctu.edu.tw/)
 - [circBase](http://circrna.org/)
@@ -476,6 +476,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [deepvariant](https://github.com/google/deepvariant)
 - [SV2](https://github.com/dantaki/SV2)
 - [facets](https://github.com/mskcc/facets)
+- [MutScan](https://github.com/OpenGene/MutScan)
 
 ##### Variant Annotation
 
@@ -487,6 +488,21 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [vcfanno](https://github.com/brentp/vcfanno)
 - [pcgr](https://github.com/sigven/pcgr)
 - [annovarR](https://github.com/JhuangLab/annovarR)
+
+
+##### Variant Visualization (SNVs, INDELs, SVs)
+
+- [ProteinPaint](https://proteinpaint.stjude.org/)
+
+
+- [AGFusion](https://github.com/murphycj/AGFusion)
+- [GenomeUPlot](https://github.com/gaitat/GenomeUPlot)
+- [BreakPointSurveyor](https://github.com/ding-lab/BreakPointSurveyor)
+- [chimeraviz](https://github.com/stianlagstad/chimeraviz)
+- [Oncoprinter](http://www.cbioportal.org/oncoprinter.jsp)
+- [MutationMapper](http://www.cbioportal.org/mutation_mapper.jsp)
+
+
 
 ##### Variant Screen
 
@@ -515,6 +531,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 
 - [seurat](https://github.com/satijalab/seurat)
 - [SCnorm](http://www.biostat.wisc.edu/~kendzior/SCNORM/)
+- [dropClust](https://github.com/debsin/dropClust)
 
 ##### Protein Data Related
 
@@ -541,6 +558,10 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
 - [nextflow](https://github.com/nextflow-io/nextflow)
 - [orange3](https://github.com/biolab/orange3)
+- [sequana](https://github.com/sequana/sequana)
+- [snakemake](https://snakemake.readthedocs.io/en/latest/)
+- [WDL](https://github.com/openwdl/wdl)
+- [CWL](http://www.commonwl.org/)
 
 ##### Unclassified
 
@@ -577,6 +598,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [Beagle](http://faculty.washington.edu/browning/beagle/beagle.html)
 - [CIBERSORT](https://cibersort.stanford.edu/index.php)
 - [biobloom](https://github.com/bcgsc/biobloom)
+- [APAtrap](https://apatrap.sourceforge.io)
 
 ##### Statistical and Visualization
 
