@@ -375,6 +375,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [PDBFlex](http://pdbflex.org/)
 - [Cancer3d](http://www.cancer3d.org/)
 - [Dsysmap](https://dsysmap.irbbarcelona.org/)
+- [CBS Prediction Servers](http://www.cbs.dtu.dk/services/)
 
 ##### Clinical Annotation
 
