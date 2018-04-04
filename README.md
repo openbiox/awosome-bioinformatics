@@ -449,6 +449,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [MECAT](https://github.com/xiaochuanle/MECAT)
 - [DART](https://github.com/hsinnan75/DART)
 - [rHAT](https://github.com/HIT-Bioinformatics/rHAT)
+- [taxmaps](https://github.com/nygenome/taxmaps) for large DNA/RNA metagenomics samples
 
 ##### Variant Detection (SNVs, INDELs, SVs)
 
@@ -478,6 +479,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [SV2](https://github.com/dantaki/SV2)
 - [facets](https://github.com/mskcc/facets)
 - [MutScan](https://github.com/OpenGene/MutScan)
+- [svaba](https://github.com/walaj/svaba) for structural variation and indel detection by local assembly
 
 ##### Variant Annotation
 
@@ -490,20 +492,18 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [pcgr](https://github.com/sigven/pcgr)
 - [annovarR](https://github.com/JhuangLab/annovarR)
 
-
 ##### Variant Visualization (SNVs, INDELs, SVs)
 
 - [ProteinPaint](https://proteinpaint.stjude.org/)
-
-
 - [AGFusion](https://github.com/murphycj/AGFusion)
 - [GenomeUPlot](https://github.com/gaitat/GenomeUPlot)
 - [BreakPointSurveyor](https://github.com/ding-lab/BreakPointSurveyor)
 - [chimeraviz](https://github.com/stianlagstad/chimeraviz)
 - [Oncoprinter](http://www.cbioportal.org/oncoprinter.jsp)
 - [MutationMapper](http://www.cbioportal.org/mutation_mapper.jsp)
-
-
+- [pv](https://github.com/biasmv/pv) for 3D structure visualization in WEB
+- [g2s](https://github.com/genome-nexus/g2s) for mappings between protein sequence positions and PDB 3D protein structure models
+- [NGB](https://github.com/epam/NGB) for structural Variations (SVs) visualization capabilities, high performance, scalability, and cloud data support
 
 ##### Variant Screen
 
@@ -527,12 +527,15 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 
 - [viral-ngs](https://github.com/broadinstitute/viral-ngs)
 - [qap](https://github.com/mingjiewang/qap)
+- [ROP](https://github.com/smangul1/rop) for discovering the source of all RNA-seq reads, including those originating from repeat sequences, recombinant B and T cell receptors, and microbial communities
 
 ##### Single Cell
 
 - [seurat](https://github.com/satijalab/seurat)
 - [SCnorm](http://www.biostat.wisc.edu/~kendzior/SCNORM/)
 - [dropClust](https://github.com/debsin/dropClust)
+- [scran](https://bioconductor.org/packages/release/bioc/html/scran.html) for batch effect adjust
+- [trendsceek](https://github.com/edsgard/trendsceek) for spatial expression trends in single-cell gene expression data
 
 ##### Protein Data Related
 
@@ -580,6 +583,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [vcftools](https://github.com/vcftools/vcftools)
 - [bcftools](https://github.com/samtools/bcftools)
 - [bamtools](https://github.com/pezmaster31/bamtools)
+- [maftools](https://github.com/PoisonAlien/maftools)
 - [bamUtil](https://github.com/statgen/bamUtil)
 - [vcflib](https://github.com/vcflib/vcflib)
 - [samstat](https://sourceforge.net/projects/samstat)
@@ -600,6 +604,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [CIBERSORT](https://cibersort.stanford.edu/index.php)
 - [biobloom](https://github.com/bcgsc/biobloom)
 - [APAtrap](https://apatrap.sourceforge.io)
+- [phenopredict](https://github.com/leekgroup/phenopredict) for predicting phenotype sample information using gene expression
 
 ##### Statistical and Visualization
 
@@ -615,6 +620,8 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [chromVAR](https://github.com/GreenleafLab/chromVAR)
 - [echarts](https://github.com/ecomfe/echarts)
 - [plotly](https://github.com/plotly/plotly.js)
+- [qvalue](https://github.com/StoreyLab/qvalue) for estimating q-values and false discovery rate quantities
+- [GenVisR](https://github.com/griffithlab/GenVisR) for genome data visualizations
 
 ##### Text editor and IDE
 
