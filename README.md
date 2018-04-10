@@ -536,6 +536,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [dropClust](https://github.com/debsin/dropClust)
 - [scran](https://bioconductor.org/packages/release/bioc/html/scran.html) for batch effect adjust
 - [trendsceek](https://github.com/edsgard/trendsceek) for spatial expression trends in single-cell gene expression data
+- [scRNA-tools](https://www.scrna-tools.org/) - A database of software tools for the analysis of single-cell RNA-seq data.
 
 ##### Protein Data Related
 
