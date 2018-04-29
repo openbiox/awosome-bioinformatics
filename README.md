@@ -449,7 +449,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [MECAT](https://github.com/xiaochuanle/MECAT)
 - [DART](https://github.com/hsinnan75/DART)
 - [rHAT](https://github.com/HIT-Bioinformatics/rHAT)
-- [taxmaps](https://github.com/nygenome/taxmaps) for large DNA/RNA metagenomics samples
+- [taxmaps](https://github.com/nygenome/taxmaps): large DNA/RNA metagenomics samples
 
 ##### Variant Detection (SNVs, INDELs, SVs)
 
@@ -479,7 +479,9 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [SV2](https://github.com/dantaki/SV2)
 - [facets](https://github.com/mskcc/facets)
 - [MutScan](https://github.com/OpenGene/MutScan)
-- [svaba](https://github.com/walaj/svaba) for structural variation and indel detection by local assembly
+- [svaba](https://github.com/walaj/svaba): structural variation and indel detection by local assembly
+- [manta](https://github.com/Illumina/manta): structural variant and indel caller using mapped sequencing data
+- [JAFFA](https://github.com/Oshlack/JAFFA): a multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions
 
 ##### Variant Annotation
 
@@ -501,9 +503,9 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [chimeraviz](https://github.com/stianlagstad/chimeraviz)
 - [Oncoprinter](http://www.cbioportal.org/oncoprinter.jsp)
 - [MutationMapper](http://www.cbioportal.org/mutation_mapper.jsp)
-- [pv](https://github.com/biasmv/pv) for 3D structure visualization in WEB
-- [g2s](https://github.com/genome-nexus/g2s) for mappings between protein sequence positions and PDB 3D protein structure models
-- [NGB](https://github.com/epam/NGB) for structural Variations (SVs) visualization capabilities, high performance, scalability, and cloud data support
+- [pv](https://github.com/biasmv/pv): 3D structure visualization in WEB
+- [g2s](https://github.com/genome-nexus/g2s): mappings between protein sequence positions and PDB 3D protein structure models
+- [NGB](https://github.com/epam/NGB): structural Variations (SVs) visualization capabilities, high performance, scalability, and cloud data support
 
 ##### Variant Screen
 
@@ -527,17 +529,17 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 
 - [viral-ngs](https://github.com/broadinstitute/viral-ngs)
 - [qap](https://github.com/mingjiewang/qap)
-- [ROP](https://github.com/smangul1/rop) for discovering the source of all RNA-seq reads, including those originating from repeat sequences, recombinant B and T cell receptors, and microbial communities
+- [ROP](https://github.com/smangul1/rop): discovering the source of all RNA-seq reads, including those originating from repeat sequences, recombinant B and T cell receptors, and microbial communities
 
 ##### Single Cell
 
 - [seurat](https://github.com/satijalab/seurat)
 - [SCnorm](http://www.biostat.wisc.edu/~kendzior/SCNORM/)
 - [dropClust](https://github.com/debsin/dropClust)
-- [scran](https://bioconductor.org/packages/release/bioc/html/scran.html) for batch effect adjust
-- [trendsceek](https://github.com/edsgard/trendsceek) for spatial expression trends in single-cell gene expression data
-- [scRNA-tools](https://www.scrna-tools.org/) - A database of software tools for the analysis of single-cell RNA-seq data.
-- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
+- [scran](https://bioconductor.org/packages/release/bioc/html/scran.html): batch effect adjust
+- [trendsceek](https://github.com/edsgard/trendsceek): spatial expression trends in single-cell gene expression data
+- [scRNA-tools](https://www.scrna-tools.org/): a database of software tools for the analysis of single-cell RNA-seq data.
+- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell): list of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
 
 
 ##### Protein Data Related
@@ -607,7 +609,10 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [CIBERSORT](https://cibersort.stanford.edu/index.php)
 - [biobloom](https://github.com/bcgsc/biobloom)
 - [APAtrap](https://apatrap.sourceforge.io)
-- [phenopredict](https://github.com/leekgroup/phenopredict) for predicting phenotype sample information using gene expression
+- [phenopredict](https://github.com/leekgroup/phenopredict): predicting phenotype sample information using gene expression
+- [recount](https://github.com/leekgroup/recount)
+- [bart](http://faculty.virginia.edu/zanglab/bart/): predicting functional transcription factors using gene set or a ChIP-seq dataset as input
+- [LSMM (Latent Sparse Mixed Model)](https://github.com/mingjingsi/LSMM): integrating functional annotations with genome-wide association studies
 
 ##### Statistical and Visualization
 
@@ -623,8 +628,9 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [chromVAR](https://github.com/GreenleafLab/chromVAR)
 - [echarts](https://github.com/ecomfe/echarts)
 - [plotly](https://github.com/plotly/plotly.js)
-- [qvalue](https://github.com/StoreyLab/qvalue) for estimating q-values and false discovery rate quantities
-- [GenVisR](https://github.com/griffithlab/GenVisR) for genome data visualizations
+- [qvalue](https://github.com/StoreyLab/qvalue): estimating q-values and false discovery rate quantities
+- [GenVisR](https://github.com/griffithlab/GenVisR): genome data visualizations
+- [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes): Comprehensive list of color palettes available in r
 
 ##### Text editor and IDE
 
