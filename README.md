@@ -450,6 +450,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [DART](https://github.com/hsinnan75/DART)
 - [rHAT](https://github.com/HIT-Bioinformatics/rHAT)
 - [taxmaps](https://github.com/nygenome/taxmaps): large DNA/RNA metagenomics samples
+- [MARVEL](https://github.com/schloi/MARVEL): consists of a set of tools that facilitate the overlapping, patching, correction and assembly of noisy (not so noisy ones as well) long reads.
 
 ##### Variant Detection (SNVs, INDELs, SVs)
 
@@ -482,6 +483,10 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [svaba](https://github.com/walaj/svaba): structural variation and indel detection by local assembly
 - [manta](https://github.com/Illumina/manta): structural variant and indel caller using mapped sequencing data
 - [JAFFA](https://github.com/Oshlack/JAFFA): a multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions
+- [Picky](https://github.com/TheJacksonLaboratory/Picky): structural variants pipeline for long reads
+- [CREST](http://www.stjuderesearch.org/site/lab/zhang): a algorithm for detecting genomic structural variations at base-pair resolution using next-generation sequencing data
+- [Control-FREEC](http://boevalab.com/FREEC/): a tool for detection of copy-number changes and allelic imbalances (including LOH) using deep-sequencing data
+- [Strelka](ftp://strelka@ftp.illumina.com/): accurate somatic small-variant calling from sequenced tumor–normal sample pairs
 
 ##### Variant Annotation
 
@@ -493,6 +498,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [vcfanno](https://github.com/brentp/vcfanno)
 - [pcgr](https://github.com/sigven/pcgr)
 - [annovarR](https://github.com/JhuangLab/annovarR)
+- [OncodriveCLUST](http://bg.upf.edu/group/projects/oncodrive-clust.php): exploiting the positional clustering of somatic mutations to identify cancer genes
 
 ##### Variant Visualization (SNVs, INDELs, SVs)
 
@@ -631,6 +637,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [qvalue](https://github.com/StoreyLab/qvalue): estimating q-values and false discovery rate quantities
 - [GenVisR](https://github.com/griffithlab/GenVisR): genome data visualizations
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes): Comprehensive list of color palettes available in r
+- [sequenza](http://www.cbs.dtu.dk/biotools/sequenza/): a novel set of tools providing a fast python script to genotype cancer samples, and an R package to estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
 
 ##### Text editor and IDE
 
