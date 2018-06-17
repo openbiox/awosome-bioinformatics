@@ -307,6 +307,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [gradle](https://gradle.org/)
 - [ant](http://ant.apache.org/)
 - [maven](https://maven.apache.org/)
+- [Spack](https://github.com/spack/spack)
 
 #### Web Application Developement Framework
 
@@ -376,6 +377,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [Cancer3d](http://www.cancer3d.org/)
 - [Dsysmap](https://dsysmap.irbbarcelona.org/)
 - [CBS Prediction Servers](http://www.cbs.dtu.dk/services/)
+- [wANNOVAR](http://wannovar.wglab.org/): Public web service of ANNOVAR
 
 ##### Clinical Annotation
 
@@ -386,6 +388,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [Cancer Hotspots](http://cancerhotspots.org/#/home)
 - [DisGeNET](http://www.disgenet.org/web/DisGeNET/menu)
 - [Cancer Biomarkers database](https://www.cancergenomeinterpreter.org/biomarkers)
+- [OncoKB](http://oncokb.org/): Precision Oncology Knowledge Base
 
 ##### Noncoding RNA Related Database
 
@@ -487,6 +490,8 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [CREST](http://www.stjuderesearch.org/site/lab/zhang): a algorithm for detecting genomic structural variations at base-pair resolution using next-generation sequencing data
 - [Control-FREEC](http://boevalab.com/FREEC/): a tool for detection of copy-number changes and allelic imbalances (including LOH) using deep-sequencing data
 - [Strelka](ftp://strelka@ftp.illumina.com/): accurate somatic small-variant calling from sequenced tumor–normal sample pairs
+- [GISTIC2](http://portals.broadinstitute.org/cgi-bin/cancer/publications/pub_paper.cgi?mode=view&paper_id=216&p=t): facilitates sensitive and confident localization of the targets of focal somatic copy-number alteration in human cancers
+- [BreaKmer](https://github.com/ccgd-profile/BreaKmer): A method to identify structural variation from sequencing data in target regions
 
 ##### Variant Annotation
 
@@ -536,6 +541,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [viral-ngs](https://github.com/broadinstitute/viral-ngs)
 - [qap](https://github.com/mingjiewang/qap)
 - [ROP](https://github.com/smangul1/rop): discovering the source of all RNA-seq reads, including those originating from repeat sequences, recombinant B and T cell receptors, and microbial communities
+- [ViFi](https://github.com/namphuon/ViFi): Pipeline for identifying viral integration and fusion mRNA reads from NGS data
 
 ##### Single Cell
 
@@ -619,6 +625,12 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [recount](https://github.com/leekgroup/recount)
 - [bart](http://faculty.virginia.edu/zanglab/bart/): predicting functional transcription factors using gene set or a ChIP-seq dataset as input
 - [LSMM (Latent Sparse Mixed Model)](https://github.com/mingjingsi/LSMM): integrating functional annotations with genome-wide association studies
+- [vcf2maf](https://github.com/mskcc/vcf2maf/): Convert a VCF into a MAF, where each variant is annotated to only one of all possible gene isoforms
+- [r2d3](https://github.com/rstudio/r2d3): R Interface to D3 Visualizations
+- [liteq](https://github.com/r-lib/liteq): Serverless R message queue using SQLite
+- [ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
+- [dash](https://github.com/jonocarroll/dash): RStudio Addin to Run a Selection as a Background Job
+- [threadpool](https://github.com/rdpeng/threadpool): Parallel Processing in R using a Thread Pool
 
 ##### Statistical and Visualization
 
@@ -637,7 +649,10 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [qvalue](https://github.com/StoreyLab/qvalue): estimating q-values and false discovery rate quantities
 - [GenVisR](https://github.com/griffithlab/GenVisR): genome data visualizations
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes): Comprehensive list of color palettes available in r
-- [sequenza](http://www.cbs.dtu.dk/biotools/sequenza/): a novel set of tools providing a fast python script to genotype cancer samples, and an R package to estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
+- [sequenza](http://www.cbs.dtu.dk/biotools/sequenza/): a novel set of tools providing a fast python script to genotype cancer samples, and an R package to estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles
+- [opencpu](https://github.com/opencpu/opencpu): A system for embedded scientific computing and reproducible research with R
+- [ggthemr](https://github.com/cttobin/ggthemr): Themes for ggplot2
+- [paletter](https://github.com/AndreaCirilloAC/paletter): Build your ggplot2 palette from a picture
 
 ##### Text editor and IDE
 
