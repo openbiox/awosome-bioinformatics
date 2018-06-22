@@ -378,6 +378,17 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [Dsysmap](https://dsysmap.irbbarcelona.org/)
 - [CBS Prediction Servers](http://www.cbs.dtu.dk/services/)
 - [wANNOVAR](http://wannovar.wglab.org/): Public web service of ANNOVAR
+- [Harmonizome](http://amp.pharm.mssm.edu/Harmonizome): Search for genes or proteins and their functional terms extracted and organized from over a hundred publicly available resources
+- [GDA](http://gda.unimore.it/): A web-based tool that combines NCI60 uniquely large number of drug sensitivity data with CCLE and NCI60 gene mutation and expression profiles
+- [CLUE](https://clue.io/): Unravel biology with the world’s largest perturbation-driven gene expression dataset
+- [CMAP](https://portals.broadinstitute.org/cmap/): The Connectivity Map (also known as cmap) is a collection of genome-wide transcriptional expression data from cultured human cells treated with bioactive small molecules and simple pattern-matching algorithms that together enable the discovery of functional connections between drugs, genes and diseases through the transitory feature of common gene-expression changes.
+- [pssmsearch](http://slim.ucd.ie/pssmsearch/): a web application to discover novel protein motifs (SLiMs, mORFs, miniMotifs) and PTM sites
+- [bammmotif](https://bammmotif.mpibpc.mpg.de/): Bayesian Markov Models (BaMMs), a web server for de-novo motif discovery and regulatory sequence analysis
+- [LOLAweb](http://lolaweb.databio.org/): a containerized web server for interactive genomic locus overlap enrichment analysis
+- [GeNets](https://apps.broadinstitute.org/genets): a unified web platform for network-based genomic analyses
+- [HiCExplorer](https://hicexplorer.usegalaxy.eu/): a web server for reproducible Hi-C data analysis, quality control and visualization
+- [paintomics](http://www.paintomics.org/): a web resource for the pathway analysis and visualization of multi-omics data
+- [kinact](http://biosig.unimelb.edu.au/kinact/): a computational approach for predicting activating missense mutations in protein kinases
 
 ##### Clinical Annotation
 
@@ -389,6 +400,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [DisGeNET](http://www.disgenet.org/web/DisGeNET/menu)
 - [Cancer Biomarkers database](https://www.cancergenomeinterpreter.org/biomarkers)
 - [OncoKB](http://oncokb.org/): Precision Oncology Knowledge Base
+- [LncRNADisease](http://www.cuilab.cn/lncrnadisease): Not only a resource that curated the experimentally supported lncRNA-disease association data but also a platform that integrated tool(s) for predicting novel lncRNA-disease associatons
 
 ##### Noncoding RNA Related Database
 
@@ -399,6 +411,9 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [circRNADb](http://202.195.183.4:8000/circrnadb/circRNADb.php)
 - [exoRBase](http://www.exorbase.org/exoRBase/toIndex)
 - [EVLncRNAs](http://biophy.dzu.edu.cn/EVLncRNAs.)
+- [NONCODE](http://www.noncode.org/): an integrated knowledge database dedicated to non-coding RNAs (excluding tRNAs and rRNAs)
+- [MiTranscriptome](http://www.mitranscriptome.org/):  a catalog of human long poly-adenylated RNA transcripts derived from computational analysis of high-throughput RNA sequencing (RNA-Seq) data from over 6,500 samples spanning diverse cancer and tissue types
+- [FANTOM CAT](http://fantom.gsc.riken.jp/cat/): an atlas of human long non-coding RNAs with accurate 5’ ends
 
 ##### eQTL Related Database
 
