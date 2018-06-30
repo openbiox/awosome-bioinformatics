@@ -28,6 +28,7 @@
 - [Skills](#skills)
 - [Institute](#institute-or-business-company)
 - [People](#people)
+- [Blog](#blog)
 - [Contributors](#contributors)
 
 </details>
@@ -507,6 +508,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [Strelka](ftp://strelka@ftp.illumina.com/): accurate somatic small-variant calling from sequenced tumor–normal sample pairs
 - [GISTIC2](http://portals.broadinstitute.org/cgi-bin/cancer/publications/pub_paper.cgi?mode=view&paper_id=216&p=t): facilitates sensitive and confident localization of the targets of focal somatic copy-number alteration in human cancers
 - [BreaKmer](https://github.com/ccgd-profile/BreaKmer): A method to identify structural variation from sequencing data in target regions
+- [deTiN](https://github.com/broadinstitute/deTiN): DeTiN is designed to measure tumor-in-normal contamination and improve somatic variant detection sensitivity when using a contaminated matched control.
 
 ##### Variant Annotation
 
@@ -567,6 +569,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [trendsceek](https://github.com/edsgard/trendsceek): spatial expression trends in single-cell gene expression data
 - [scRNA-tools](https://www.scrna-tools.org/): a database of software tools for the analysis of single-cell RNA-seq data.
 - [awesome-single-cell](https://github.com/seandavi/awesome-single-cell): list of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
+- [SAVER](https://github.com/mohuangx/SAVER): SAVER (Single-cell Analysis Via Expression Recovery) implements a regularized regression prediction and empirical Bayes method to recover the true gene expression profile in noisy and sparse single-cell RNA-seq data.
 
 
 ##### Protein Data Related
@@ -837,6 +840,37 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [Brendan J. Frey](http://www.psi.toronto.edu/~frey/)
 - [Jinghui Zhang](https://www.stjude.org/directory/z/jinghui-zhang.html)
 - [Ira M. Hall](http://genome.wustl.edu/people/individual/ira-hall/)
+
+## Blog
+
+- [Jianfeng Li's blog](https://life2cloud.com/)
+- [RNA-seq Blog](https://www.rna-seqblog.com/)
+- [Jianming Zeng's blog](http://www.bio-info-trainee.com/)
+- [Yihui Xie's blog](https://yihui.name/)
+- [Fei Zhao's blog](http://kaopubear.top/)
+- [Mengyuan Shen's blog](http://shemy.site/)
+- [Boqiang Hu's blog](http://huboqiang.cn/)
+- [Bob's Blog](https://www.tanboyu.com/)
+- [Homolog.us - Frontier in Bioinformatics](http://www.homolog.us/blogs/)
+- [r-bloggers](https://www.r-bloggers.com/)
+- [DataTau](http://www.datatau.com/)
+- [Bits of DNA, Lior Pachter](https://liorpachter.wordpress.com/)
+- [Next Generation Technologist](http://www.yuzuki.org/)
+- [Simply Statistics](https://simplystatistics.org/)
+- [Massgenomics](http://massgenomics.org/)
+- [OpenHelix](http://blog.openhelix.com/)
+- [QIAGEN](https://www.qiagenbioinformatics.com/blog/)
+- [Loman Labs Blog](http://lab.loman.net/)
+- [Living in an Ivory Basement Stochastic thoughts on science, testing, and programming](http://ivory.idyll.org/blog/)
+- [Neil Saunders](https://nsaunders.wordpress.com/blog/)
+- [Mike Love’s blog](https://mikelove.wordpress.com/)
+- [Ewan Birney](https://ewanbirney.wordpress.com/)
+- [In between lines of code](https://flxlexblog.wordpress.com/)
+- [Heng Li's blog](http://lh3.github.io/)
+- [MacArthur Lab](https://macarthurlab.org/blog/)
+- [Blue Collar Bioinformatics](https://bcbio.wordpress.com/)
+- [Simpson Lab](http://simpsonlab.github.io/blog/)
+- [Bits of Bioinformatics](https://pmelsted.wordpress.com/)
 
 ### Contributors
 
