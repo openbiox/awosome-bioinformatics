@@ -390,6 +390,8 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [HiCExplorer](https://hicexplorer.usegalaxy.eu/): a web server for reproducible Hi-C data analysis, quality control and visualization
 - [paintomics](http://www.paintomics.org/): a web resource for the pathway analysis and visualization of multi-omics data
 - [kinact](http://biosig.unimelb.edu.au/kinact/): a computational approach for predicting activating missense mutations in protein kinases
+- [VAReporter](http://rnd.cgu.edu.tw/vareporter/): VAReporter can provide comprehensive annotation by integrating a wide variety of biomedical databases
+- [SNPnexus](http://www.snp-nexus.org/): SNPnexus was designed to simplify and assist in the selection of functionally relevant Single Nucleotide Polymorphisms (SNP) for large-scale genotyping studies of multifactorial disorders
 
 ##### Clinical Annotation
 
@@ -470,6 +472,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [rHAT](https://github.com/HIT-Bioinformatics/rHAT)
 - [taxmaps](https://github.com/nygenome/taxmaps): large DNA/RNA metagenomics samples
 - [MARVEL](https://github.com/schloi/MARVEL): consists of a set of tools that facilitate the overlapping, patching, correction and assembly of noisy (not so noisy ones as well) long reads.
+- [vg](https://github.com/vgteam/vg): tools for working with genome variation graphs
 
 ##### Variant Detection (SNVs, INDELs, SVs)
 
@@ -521,6 +524,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [pcgr](https://github.com/sigven/pcgr)
 - [annovarR](https://github.com/JhuangLab/annovarR)
 - [OncodriveCLUST](http://bg.upf.edu/group/projects/oncodrive-clust.php): exploiting the positional clustering of somatic mutations to identify cancer genes
+- [bystro](https://github.com/akotlar/bystro): Bystro genetic analysis (annotation, filtering, statistics
 
 ##### Variant Visualization (SNVs, INDELs, SVs)
 
@@ -671,6 +675,10 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [opencpu](https://github.com/opencpu/opencpu): A system for embedded scientific computing and reproducible research with R
 - [ggthemr](https://github.com/cttobin/ggthemr): Themes for ggplot2
 - [paletter](https://github.com/AndreaCirilloAC/paletter): Build your ggplot2 palette from a picture
+- [ggdag](https://github.com/malcolmbarrett/ggdag): An R package for working with causal directed acyclic graphs (DAGs), [homepage](https://ggdag.malco.io/)
+- [ggseqlogo](https://github.com/omarwagih/ggseqlogo): Publication-quality sequence logos in R. 
+- [threejs](https://github.com/mrdoob/three.js): JavaScript 3D library
+- [higlass](https://github.com/hms-dbmi/higlass): Fast contact matrix visualization for the web, [homepage(http://higlass.io)
 
 ##### Text editor and IDE
 
@@ -751,18 +759,58 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 
-#### Statistics
+#### Statistics and Deep learning
 
 - [SPSS Beginners Tutorials](https://www.spss-tutorials.com/basics/)
-- [维基百科 - K-Means聚类算法](https://en.wikipedia.org/wiki/K-means_clustering)
-- [维基百科 - KNN算法](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-- [维基百科 - SVM算法](https://en.wikipedia.org/wiki/Support_vector_machine)
-- [维基百科 - HMM模型](https://en.wikipedia.org/wiki/Hidden_Markov_model)
-- [维基百科 - KNN算法](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-- [STAT115课程 - HMM算法PPT](https://github.com/Miachol/ftp/raw/master/files/ppt/STAT115_HMM.ppt)
+- [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+- [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
+- [Loss function](https://en.wikipedia.org/wiki/Loss_function)
+- [Maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+- [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+- [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+- [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)
+- [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [Convolutional Neural Network](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+- [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
+- [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+- [STAT115 - HMM PPT](https://github.com/Miachol/ftp/raw/master/files/ppt/STAT115_HMM.ppt)
 - [机器学习常用算法](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms)
 - [机器学习资源列表](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
 - [Review:Deep learning, genomics, and precision medicine](https://github.com/greenelab/deep-review)
+- [ML book list](http://www.hankcs.com/ml/machine-learning-entry-list.html):
+
+```
+│  李航.统计学习方法.pdf
+│  机器学习及其应用.pdf
+│  All of Statistics - A Concise Course in Statistical Inference - Larry Wasserman - Springer.pdf
+│  Machine Learning - Tom Mitchell.pdf
+│  PRML.pdf
+│  PRML读书会合集打印版.pdf
+│  Programming Collective Intelligence.pdf
+│  [奥莱理] Machine Learning for Hackers.pdf
+│  [机器学习]Tom.Mitchell.pdf
+│  《大数据：互联网大规模数据挖掘与分布式处理》迷你书.pdf
+│  推荐系统实践.pdf
+│  数据挖掘-实用机器学习技术（中文第二版）.pdf
+│  数据挖掘_概念与技术.pdf
+│  机器学习-Mitchell-中文-清晰版.pdf
+│  机器学习导论.pdf
+│  模式分类第二版中文版Duda.pdf（全）.pdf
+│  深入搜索引擎--海量信息的压缩、索引和查询.pdf
+│  矩阵分析.美国 Roger.A.Horn.扫描版.pdf
+│  统计学习基础 数据挖掘、推理与预测.pdf
+│  
+├─机器学习实战
+│      machinelearninginaction.zip
+│      机器学习实战 单页.pdf
+│      机器学习实战.pdf
+│      
+└─论文文集
+    └─LDA
+            LDA-wangyi.pdf
+            LDA数学八卦.pdf
+            text-est.pdf
+```
 
 #### Git
 
