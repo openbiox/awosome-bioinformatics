@@ -326,6 +326,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [EMBL-EBI](http://www.ebi.ac.uk/)
 - [TCGA](https://cancergenome.nih.gov/)
 - [COSMIC](http://cancer.sanger.ac.uk/cosmic)
+  - [COSMIC-3D](https://cancer.sanger.ac.uk/cosmic3d): a comprehensive integration of cancer mutations with protein structure across the human genome and structural proteome, seeking to support the identification and characterization of protein targets for novel drug design in precision oncology
 - [St. Jude PeCan Data Portal](https://pecan.stjude.org/#/home)
 - [BIG Data Center](http://bigd.big.ac.cn/)
 - [DAVID Bioinformatics Resources](https://david.ncifcrf.gov/)
@@ -392,6 +393,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [kinact](http://biosig.unimelb.edu.au/kinact/): a computational approach for predicting activating missense mutations in protein kinases
 - [VAReporter](http://rnd.cgu.edu.tw/vareporter/): VAReporter can provide comprehensive annotation by integrating a wide variety of biomedical databases
 - [SNPnexus](http://www.snp-nexus.org/): SNPnexus was designed to simplify and assist in the selection of functionally relevant Single Nucleotide Polymorphisms (SNP) for large-scale genotyping studies of multifactorial disorders
+- [Oncoscape](https://oncoscape.sttrcancer.org/): an online open-access dataanalysis and visualization platform that empowers researchers and clinicians to discover novel patterns and relationships between linked clinical and molecular data
 
 ##### Clinical Annotation
 
