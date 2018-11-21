@@ -394,6 +394,18 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [VAReporter](http://rnd.cgu.edu.tw/vareporter/): VAReporter can provide comprehensive annotation by integrating a wide variety of biomedical databases
 - [SNPnexus](http://www.snp-nexus.org/): SNPnexus was designed to simplify and assist in the selection of functionally relevant Single Nucleotide Polymorphisms (SNP) for large-scale genotyping studies of multifactorial disorders
 - [Oncoscape](https://oncoscape.sttrcancer.org/): an online open-access dataanalysis and visualization platform that empowers researchers and clinicians to discover novel patterns and relationships between linked clinical and molecular data
+- [cellmarker](http://biocc.hrbmu.edu.cn/CellMarker): a manually curated resource of cell markers in human and mouse
+- [awesome](http://www.awesome-hust.com): a database of SNPs that affect protein post-translational modifications
+- [hmdb](http://www.hmdb.ca/system): an online database of small molecule metabolites found in the human body, which facilitates human metabolomics research including the identification and characterization of human metabolites using NMR and MS
+- [redoxdb](https://biocomputer.bio.cuhk.edu.hk/RedoxDB): a curated database of protein oxidative modification
+- [instruct](http://instruct.yulab.org): a database of 3D protein interactome networks with structural resolution
+- [consensuspathdb](http://cpdb.molgen.mpg.de): integrates interaction networks in Homo sapiens including binary and complex protein-protein, genetic, metabolic, signaling, gene regulatory and drug-target interactions, as well as biochemical pathways
+- [phosphonetworks](http://www.phosphonetworks.org): a database for experimentally determined kinase-substrate relationships
+- [dbsno](http://140.138.144.145/~dbSNO): protein S-nitrosylation (SNO) is a reversible post-translational modification (PTM) and involves the covalent attachment of nitric oxide (NO) to the thiol group of cysteine (Cys) residues. Given the increasing number of proteins reported to be regulated by this modification, S-nitrosylation is considered to act, in a manner analogous to phosphorylation, as a pleiotropic regulator that elicits dual effects to regulate diverse pathophysiological processes by altering protein function, stability, and conformation change in various cancers and human disorders
+- [hpdi](http://bioinfo.wilmer.jhu.edu/PDI): Human Protein-DNA Interactome (hPDI)
+- [islandviewer](http://www.pathogenomics.sfu.ca/islandviewer): an integrated interface for computational identification and visualization of genomic islands
+- [appris](http://apprisws.bioinfo.cnio.es): a system that deploys a range of computational methods to provide annotations of alternative splice isoforms and identify principal isoforms for vertebrate species
+- [rbpdb](http://rbpdb.ccbr.utoronto.ca): a collection of RNA-binding proteins linked to a curated database of published observations of RNA binding
 
 ##### Clinical Annotation
 
@@ -406,6 +418,11 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [Cancer Biomarkers database](https://www.cancergenomeinterpreter.org/biomarkers)
 - [OncoKB](http://oncokb.org/): Precision Oncology Knowledge Base
 - [LncRNADisease](http://www.cuilab.cn/lncrnadisease): Not only a resource that curated the experimentally supported lncRNA-disease association data but also a platform that integrated tool(s) for predicting novel lncRNA-disease associatons
+- [fusiongdb](https://ccsm.uth.edu/FusionGDB): fusion gene annotation DataBase, which collected 48 117 FGs across pan-cancer from three representative fusion gene resources: the improved database of chimeric transcripts and RNA-seq data (ChiTaRS 3.1), an integrative resource for cancerassociated transcript fusions (TumorFusions), and The Cancer Genome Atlas (TCGA) fusions by Gao et al.
+- [sedb](http://www.licpathway.net/sedb/): the comprehensive human Super-Enhancer database.
+- [pmkb](https://pmkb.weill.cornell.edu/): the cancer precision medicine knowledge base for structured clinical-grade mutations and interpretations
+- [ewasdb](http://www.bioapp.org/ewasdb): epigenome-wide association study database
+- [dcdb](http://www.cls.zju.edu.cn/dcdb): DCDB (Drug Combination Database), Accumulating scientific and clinical evidences have suggested the use of drug combinations as a safe and effective approach, to treat complicated and refractory diseases. The Drug Combination Database (DCDB) is devoted to the research and development of multi-component drugs. The current version of DCDB collected 1363 drug combinations (330 approved and 1033 investigational, including 237 unsuccessful usages), involving 904 individual drugs, 805 targets
 
 ##### Noncoding RNA Related Database
 
@@ -419,12 +436,21 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [NONCODE](http://www.noncode.org/): an integrated knowledge database dedicated to non-coding RNAs (excluding tRNAs and rRNAs)
 - [MiTranscriptome](http://www.mitranscriptome.org/):  a catalog of human long poly-adenylated RNA transcripts derived from computational analysis of high-throughput RNA sequencing (RNA-Seq) data from over 6,500 samples spanning diverse cancer and tissue types
 - [FANTOM CAT](http://fantom.gsc.riken.jp/cat/): an atlas of human long non-coding RNAs with accurate 5’ ends
+- [lnc2cancer2](http://www.bio-bigdata.net/lnc2cancer): an updated database that provides comprehensive experimentally supported associations between lncRNAs and human cancers
+- [sm2mir](http://www.jianglab.cn/SM2miR/): a manual curated database which collects and incorporates the experimentally validated small molecules' effects on miRNA expression in 20 species from the published papers. Each entry contains the detailed information about small molecules, miRNAs and their relationships, including species, small molecule name, DrugBank Accession number, PubChem CID, approved by FDA or not, miRNA name, miRBase Accession number, expression pattern of miRNA, experimental detection method, tissues or conditions for detection, evidences in the reference, PubMed ID and the published year of the reference
+- [oncomirdb](http://lifeome.net/database/oncomirdb): a Database for Oncogenic & Tumor-Suppressive MicroRNAs
+- [mircancer](http://mircancer.ecu.edu): provides comprehensive collection of microRNA (miRNA) expression profiles in various human cancers which are automatically extracted from published literatures in PubMed. It utilizes text mining techniques for information collection. Manual revision is applied after auto-extraction to provide 100% precision
+- [lncipedia](https://lncipedia.org): a public database for long non-coding RNA (lncRNA) sequence and annotation. The current release contains 127,802 transcripts and 56,946 genes
+- [mirnest](http://rhesus.amu.edu.pl/mirnest): an integrative collection of animal, plant and virus microRNA data
+- [mirtarbase](http://mirtarbase.mbc.nctu.edu.tw): the experimentally validated microRNA-target interactions database
+- [mirdb](http://mirdb.org): an online resource for microRNA target prediction and functional annotations
 
 ##### eQTL Related Database
 
 - [exsnp](http://www.exsnp.org)
 - [rVarBase](http://rv.psych.ac.cn)
 - [seeQTL](http://www.bios.unc.edu/research/genomic_software/seeQTL/)
+- [cancersplicingqtl](http://www.cancersplicingqtl-hust.com): a database for genome-wide identification of splicing QTLs in human cancer
 
 #### Sequencing Data Portal
 
@@ -514,6 +540,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [GISTIC2](http://portals.broadinstitute.org/cgi-bin/cancer/publications/pub_paper.cgi?mode=view&paper_id=216&p=t): facilitates sensitive and confident localization of the targets of focal somatic copy-number alteration in human cancers
 - [BreaKmer](https://github.com/ccgd-profile/BreaKmer): A method to identify structural variation from sequencing data in target regions
 - [deTiN](https://github.com/broadinstitute/deTiN): DeTiN is designed to measure tumor-in-normal contamination and improve somatic variant detection sensitivity when using a contaminated matched control.
+- [vadir](https://academic.oup.com/gigascience/article/7/2/gix122/4757064): an integrated approach to Variant Detection in RNA
 
 ##### Variant Annotation
 
@@ -527,6 +554,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [annovarR](https://github.com/JhuangLab/annovarR)
 - [OncodriveCLUST](http://bg.upf.edu/group/projects/oncodrive-clust.php): exploiting the positional clustering of somatic mutations to identify cancer genes
 - [bystro](https://github.com/akotlar/bystro): Bystro genetic analysis (annotation, filtering, statistics
+- [contest](http://www.broadinstitute.org/cancer/cga/contest): a tool (and method) for estimating the amount of cross-sample contamination in next generation sequencing data.  Using a Bayesian framework, contamination levels are estimated from array based genotypes and sequencing reads
 
 ##### Variant Visualization (SNVs, INDELs, SVs)
 
@@ -558,13 +586,16 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [edgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html)
 - [HTSeq](https://github.com/simon-anders/htseq)
 - [sRNAnalyzer](http://srnanalyzer.systemsbiology.net/)
+- [mrnn](https://github.com/hendrixlab/mRNN): an implementation of a Gated Recurrent Unit (GRU) network for classification of transcripts as either coding or noncoding
+- [prada](https://sourceforge.net/projects/prada): pipeline for RNA-Sequencing Data Analysis
 
 ##### Virus Related
 
 - [viral-ngs](https://github.com/broadinstitute/viral-ngs)
 - [qap](https://github.com/mingjiewang/qap)
 - [ROP](https://github.com/smangul1/rop): discovering the source of all RNA-seq reads, including those originating from repeat sequences, recombinant B and T cell receptors, and microbial communities
-- [ViFi](https://github.com/namphuon/ViFi): Pipeline for identifying viral integration and fusion mRNA reads from NGS data
+- [ViFi](https://github.com/namphuon/ViFi): pipeline for identifying viral integration and fusion mRNA reads from NGS data
+- [hgtid](http://kalarikrlab.org/Software/HGT-ID.html): an efficient and sensitive workflow to detect human-viral insertion sites using next-generation sequencing data
 
 ##### Single Cell
 
@@ -581,6 +612,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 ##### Protein Data Related
 
 - [interproscan](http://www.ebi.ac.uk/interpro)
+- [effusion](http://www.babbittlab.ucsf.edu/effusion): prediction of Protein Function from Sequence Similarity Networks
 
 ##### Expression Quantitative Trait Loci, eQTL
 
@@ -606,7 +638,9 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [sequana](https://github.com/sequana/sequana)
 - [snakemake](https://snakemake.readthedocs.io/en/latest/)
 - [WDL](https://github.com/openwdl/wdl)
+- [cromwell](https://github.com/broadinstitute/cromwell)
 - [CWL](http://www.commonwl.org/)
+- [bpipe](https://github.com/ssadedin/bpipe)
 
 ##### Unclassified
 
@@ -655,6 +689,8 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 - [dash](https://github.com/jonocarroll/dash): RStudio Addin to Run a Selection as a Background Job
 - [threadpool](https://github.com/rdpeng/threadpool): Parallel Processing in R using a Thread Pool
+- [marina](http://califano.c2b2.columbia.edu/): master Regulator Inference Algorithm
+- [paradigm](http://paradigm.five3genomics.com): PAthway Representation and Analysis by Direct Inference on Graphical Models
 
 ##### Statistical and Visualization
 
