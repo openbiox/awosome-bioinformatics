@@ -1,4 +1,4 @@
-# Bioinformatics-Resources
+# awosome-bioinformatics
 
 **Abstract**: A curated list of resources for learning bioinformatics. Some of this repo resources were collected by [BioInstaller](https://github.com/JhuangLab/BioInstaller/blob/master/inst/extdata/config/db/db_meta.toml) project. You can use [BioInstaller](https://github.com/JhuangLab/BioInstaller) to directly download the source code or database files, or fetch the meta information by `BioInstaller::get.meta()$item`.
 
@@ -26,6 +26,7 @@
   - [Books&Tutorial](#bookstutorial)
 
 - [Skills](#skills)
+- [Organization](#organization)
 - [Institute](#institute-or-business-company)
 - [People](#people)
 - [Blog](#blog)
@@ -406,6 +407,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [islandviewer](http://www.pathogenomics.sfu.ca/islandviewer): an integrated interface for computational identification and visualization of genomic islands
 - [appris](http://apprisws.bioinfo.cnio.es): a system that deploys a range of computational methods to provide annotations of alternative splice isoforms and identify principal isoforms for vertebrate species
 - [rbpdb](http://rbpdb.ccbr.utoronto.ca): a collection of RNA-binding proteins linked to a curated database of published observations of RNA binding
+- [type2diabetesgenetics](http://www.type2diabetesgenetics.org/home/portalHome): providing data and tools to promote understanding and treatment of type 2 diabetes and its complications
 
 ##### Clinical Annotation
 
@@ -898,6 +900,41 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 
 - [Git](https://en.wikipedia.org/wiki/Git)
 - [Github](https://en.wikipedia.org/wiki/GitHub)
+
+## Organization
+
+### Google Summer of Code Registered
+
+- [Open Bioinformatics Foundation](https://summerofcode.withgoogle.com/organizations/5857327278718976/): Promoting practice & philosophy of OSS & Open Science in biological research.
+- [National Resource for Network Biology (NRNB)](https://summerofcode.withgoogle.com/organizations/6020714008674304/): The National Resource for Network Biology (NRNB) organizes the development of free, open source software to enable network-based visualization, analysis, and biomedical discovery.
+- [INCF](https://summerofcode.withgoogle.com/organizations/5984693862793216/): INCF advances data reuse and reproducibility in brain research by coordinating the development of Open, FAIR, and Citable tools and resources for neuroscience.
+- [Computational Biology @ University of Nebraska-Lincoln](https://summerofcode.withgoogle.com/organizations/6229192392310784/): Our organization develops tools for bioinformatics and computational biology research. Our goal is to further knowledge in health through data visualization and analysis.
+- [Biomedical Informatics, Emory University](https://summerofcode.withgoogle.com/organizations/6338471594033152/): Big Data for Healthcare and Biomedical Research
+- [Ensembl](https://summerofcode.withgoogle.com/organizations/6339185571528704/): The Ensembl project maintains and updates databases that annotate a wide number of genome sequences and distributes them freely to the worldwide research community.
+- [R project for statistical computing](https://summerofcode.withgoogle.com/organizations/4934391420157952/): R provides a wide variety of statistical and graphical techniques, and is highly extensible. R is often the tool of choice for research in statistical methodology.
+- [InterMine](https://summerofcode.withgoogle.com/organizations/5071439196061696/): InterMine integrates biological data sources and makes it easy to query, visualise, and analyse the data via a graphical user interface or via APIs in Python, R, Perl, and more.
+- [NumFOCUS](https://summerofcode.withgoogle.com/organizations/5447807656263680/): NumFOCUS supports and promotes world-class, innovative, open source scientific software.
+- [PEcAn Project](https://summerofcode.withgoogle.com/organizations/5925364795179008/): PEcAn is an integrated ecoinformatics toolbox that consists of a set of scientific workflows that wrap around ecosystem models and manage flow of information in and out of models
+
+### Project-based community
+
+- [galaxyproject](https://galaxyproject.orrg): Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational biomedical research.
+- [bioconda](https://bioconda.github.io/): A channel for the conda package manager specializing in bioinformatics software.
+- [biopython](https://github.com/biopython/biopython): An international association of developers of freely available Python tools for computational molecular biology.
+- [samtools](https://github.com/samtools/samtools): Tools (written in C using htslib) for manipulating next-generation sequencing data.
+- [opengene](https://github.com/OpenGene): Open source tools for NGS data analysis.
+- [MultiQC](https://github.com/ewels/MultiQC): Aggregate results from bioinformatics analyses across many samples into a single report.
+- [Gatk](https://github.com/broadinstitute/gatk): GATK4 aims to bring together well-established tools from the GATK and Picard codebases under a streamlined framework, and to enable selected tools to be run in a massively parallel way on local clusters or in the cloud using Apache Spark. It also contains many newly developed tools not present in earlier releases of the toolkit.
+- [nextflow](https://github.com/nextflow-io/nextflow): A bioinformatics workflow manager that enables the development of portable and reproducible workflows.
+- [spack](https://github.com/spack/spack): A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [omicX](https://omictools.com/): Reap the rewards of a biological insight engine.
+
+### Communication-based community
+
+- [Biotrainee](https://vip.biotrainee.com/): Chinese Community in Bioinformatics
+- [bioinformatics.org](http://www.bioinformatics.org/): Bioinformatics community open to all people.
+- [Zhihu | Bioinformatics](https://www.zhihu.com/topic/19592675/hot): Chinese Q&A Community.
+- [muchong](http://muchong.com/bbs/): Chinese BBS for scientific research.
 
 ## Institute or business company
 
