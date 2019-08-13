@@ -503,6 +503,8 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [taxmaps](https://github.com/nygenome/taxmaps): large DNA/RNA metagenomics samples
 - [MARVEL](https://github.com/schloi/MARVEL): consists of a set of tools that facilitate the overlapping, patching, correction and assembly of noisy (not so noisy ones as well) long reads.
 - [vg](https://github.com/vgteam/vg): tools for working with genome variation graphs
+- [TransLiG](https://sourceforge.net/projects/transcriptomeassembly/files/): a de novo transcriptome assembler that uses line graph iteration.
+- [stringtie](https://github.com/gpertea/stringtie): Transcript assembly and quantification for RNA-Seq
 
 ##### Variant Detection (SNVs, INDELs, SVs)
 
@@ -575,11 +577,14 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 
 - [LARVA](http://larva.gersteinlab.org/)
 - [DANN](https://cbcl.ics.uci.edu/public_data/DANN)
+- [NCBoost](https://github.com/RausellLab/NCBoost): Classifier of pathogenic non-coding variants in Mendelian diseases
 
 ##### Alternative Splicing
 
 - [LeafCutter](https://github.com/davidaknowles/leafcutter)
 - [rMATS](http://rnaseq-mats.sourceforge.net/rmats3.2.5/)
+- [IRFinder](https://github.com/williamritchie/IRFinder): detecting intron retention from RNA-Seq experiments
+- [MMSplice](https://github.com/gagneurlab/MMSplice): variant effect predictions on splicing
 
 ##### Gene Expression Data Analysis
 
@@ -590,14 +595,23 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [sRNAnalyzer](http://srnanalyzer.systemsbiology.net/)
 - [mrnn](https://github.com/hendrixlab/mRNN): an implementation of a Gated Recurrent Unit (GRU) network for classification of transcripts as either coding or noncoding
 - [prada](https://sourceforge.net/projects/prada): pipeline for RNA-Sequencing Data Analysis
+- [ballgown](https://github.com/alyssafrazee/ballgown): a software package designed to facilitate flexible differential expression analysis of RNA-Seq data. It also provides functions to organize, visualize, and analyze the expression measurements for your transcriptome assembly.
+- [subread](http://subread.sourceforge.net/): comprises a suite of software programs for processing next-gen sequencing read data, i.e. featureCounts: a software program developed for counting reads to genomic features such as genes, exons, promoters and genomic bins. High-performance read alignment, quantification and mutation discovery. 
+- [kallisto](https://pachterlab.github.io/kallisto/manual): a program for quantifying abundances of transcripts from bulk and single-cell RNA-Seq data, or more generally of target sequences using high-throughput sequencing reads. It is based on the novel idea of pseudoalignment for rapidly determining the compatibility of reads with targets, without the need for alignment.
+- [salmon](https://combine-lab.github.io/salmon/): a tool for quantifying the expression of transcripts using RNA-seq data. Salmon uses new algorithms (specifically, coupling the concept of quasi-mapping with a two-phase inference procedure) to provide accurate expression estimates very quickly (i.e. wicked-fast) and while using little memory. Salmon performs its inference using an expressive and realistic model of RNA-seq data that takes into account experimental attributes and biases commonly observed in real RNA-seq data.
+- [mixcr](https://github.com/milaboratory/mixcr): a universal software for fast and accurate extraction of T- and B- cell receptor repertoires from any type of sequencing data. Free for academic use only
+- [trust](https://bitbucket.org/liulab/trust/): Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST performs de novo assembly on the hypervariable complementarity-determining region 3 (CDR3) and reports contigs containing the CDR3 DNA and amino acid sequences. TRUST then realigns the contigs to IMGT reference gene sequences to report the corresponding variable (V) or joining (J) genes.
+- [topconfects](https://github.com/pfh/topconfects): is intended for RNA-seq or microarray Differntial Expression analysis and similar, where we are interested in placing confidence bounds on many effect sizes--one per gene--from few samples.
 
-##### Virus Related
+
+##### Virus and Microbial Related
 
 - [viral-ngs](https://github.com/broadinstitute/viral-ngs)
 - [qap](https://github.com/mingjiewang/qap)
 - [ROP](https://github.com/smangul1/rop): discovering the source of all RNA-seq reads, including those originating from repeat sequences, recombinant B and T cell receptors, and microbial communities
 - [ViFi](https://github.com/namphuon/ViFi): pipeline for identifying viral integration and fusion mRNA reads from NGS data
 - [hgtid](http://kalarikrlab.org/Software/HGT-ID.html): an efficient and sensitive workflow to detect human-viral insertion sites using next-generation sequencing data
+- [MicroPro](https://github.com/zifanzhu/MicroPro): a software to perform profiling of both known and unknown microbial organisms for metagenomic dataset. 
 
 ##### Single Cell
 
@@ -609,7 +623,13 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [scRNA-tools](https://www.scrna-tools.org/): a database of software tools for the analysis of single-cell RNA-seq data.
 - [awesome-single-cell](https://github.com/seandavi/awesome-single-cell): list of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
 - [SAVER](https://github.com/mohuangx/SAVER): SAVER (Single-cell Analysis Via Expression Recovery) implements a regularized regression prediction and empirical Bayes method to recover the true gene expression profile in noisy and sparse single-cell RNA-seq data.
-
+- [CellSIUS](https://github.com/Novartis/CellSIUS): an R package enabling the identification and characterization of (rare) cell sub-populations from complex scRNA-seq datasets: it takes as input expression values of N cells grouped into M(>1) clusters. Within each cluster, genes with a bimodal distribution are selected and only genes with cluster-specific expression are retained. Among these candidate marker genes, sets with correlated expression patterns are identified by graph-based clustering. Finally, cells are assigned to subgroups based on their average expression of each gene set. The CellSIUS algorithm output provides the rare/ sub cell types by cell indices and their transcriptomic signatures.
+- [SCRABBLE](https://github.com/software-github/SCRABBLE): Single Cell RNA-Seq imputAtion constrained By BuLk RNAsEq data (SCRABBLE)
+- [Melissa](https://github.com/andreaskapou/Melissa): a Bayesian hierarchical method to quantify spatially-varying methylation profiles across genomic regions from single-cell bisulfite sequencing data (scBS-seq). Melissa clusters individual cells based on local methylation patterns, enabling the discovery of epigenetic diversities and commonalities among individual cells. The clustering also acts as an effective regularisation method for imputation of methylation on unassayed CpG sites, enabling transfer of information between individual cells.
+- [paga](https://github.com/theislab/paga): mapping out the coarse-grained connectivity structures of complex manifolds.
+- [clonealign](https://github.com/kieranrcampbell/clonealign): Bayesian inference of clone-specific gene expression estimates by integrating single-cell RNA-seq and single-cell DNA-seq data
+- [CellFishing.jl](https://github.com/bicycle1885/CellFishing.jl): (cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles.
+- [VIPER](https://github.com/ChenMengjie/VIPER): variability-preserving imputation for accurate gene expression recovery in single-cell RNA sequencing studies.
 
 ##### Protein Data Related
 
@@ -657,6 +677,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [htslib](https://github.com/samtools/htslib)
 - [samtools](https://github.com/samtools/samtools)
 - [bedtools](https://github.com/arq5x/bedtools2)
+- [bedops](https://github.com/bedops/bedops): a suite of tools to address common questions raised in genomic studies — mostly with regard to overlap and proximity relationships between data sets. It aims to be scalable and flexible, facilitating the efficient and accurate analysis and management of large-scale genomic data.
 - [vcftools](https://github.com/vcftools/vcftools)
 - [bcftools](https://github.com/samtools/bcftools)
 - [bamtools](https://github.com/pezmaster31/bamtools)
@@ -693,6 +714,26 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [threadpool](https://github.com/rdpeng/threadpool): Parallel Processing in R using a Thread Pool
 - [marina](http://califano.c2b2.columbia.edu/): master Regulator Inference Algorithm
 - [paradigm](http://paradigm.five3genomics.com): PAthway Representation and Analysis by Direct Inference on Graphical Models
+- [hupan](http://cgm.sjtu.edu.cn/hupan/index.html): a pan-genome analysis pipeline for human genomes.
+- [RaPID](https://github.com/ZhiGroup/RaPID): an ultra-fast tool for the identification of identity-by-descent segments among genotyped individuals.
+- [gemini](https://github.com/sellerslab/gemini): a variational Bayesian approach to identify genetic interactions from combinatorial CRISPR screens.
+- [CONFINED](https://github.com/cozygene/CONFINED): for the purpose of capturing replicable sources of biological variability in methylation data. These sources include, for example, age, sex, and cell-type composition. Importantly, the variation captured by CONFINED does not include any variability from technical or batch effects.
+- [marginPhase](https://github.com/benedictpaten/marginPhase): a program for simultaneous haplotyping and genotyping.
+- [osca](http://cnsgenomics.com/software/osca/): (OmicS-data-based Complex trait Analysis) is a software tool written in C/C++ for the analysis of complex traits using multi-omics data.
+- [ChiCMaxima](https://github.com/yousra291987/ChiCMaxima): a pipeline for analyzing and identificantion of chromation loops in CHi-C promoters data.
+- [circBrain](https://github.com/yangence/circBrain): Detection of circular RNA expression and related quantitative trait loci in the human dorsolateral prefrontal cortex.
+- [bazam](https://github.com/ssadedin/bazam): A read extraction and realignment tool for next generation sequencing data.
+- [DegNorm](https://nustatbioinfo.github.io/DegNorm/): short for degradation normalization, is a bioinformatics pipeline designed to correct for bias due to the heterogeneous patterns of transcript degradation in RNA-seq data. DegNorm helps improve the accuracy of the differential expression analysis by accounting for this degradation.
+- [conbase](https://github.com/conbase/conbase): a software for unsupervised discovery of clonal somatic mutations in single cells through read phasing
+- [3DChromatin_ReplicateQC](https://github.com/kundajelab/3DChromatin_ReplicateQC): Software to compute reproducibility and quality scores for Hi-C data.
+- [rnbeads](https://rnbeads.org/): an R package for comprehensive analysis of DNA methylation data obtained with any experimental protocol that provides single-CpG resolution. Supported assays include Infinium and EPIC microarrays and bisulfite sequencing protocols, and also MeDIP-seq and MBD-seq once the data have been preprocessed with DNA methylation level inference software. 
+- [I-Boost](https://github.com/alexwky/I-Boost): a statistical boosting method that integrates multiple types of high-dimensional genomics data with clinical data for predicting survival time.
+- [bin3C](https://github.com/cerebis/bin3C): extract metagenome-assembled genomes (MAGs) from metagenomic data using Hi-C.
+- [dStruct](https://github.com/AviranLab/dStruct): method for identifying differential reactive regions from RNA structurome profiling data.
+- [Skmer](https://github.com/shahab-sarmashghi/Skmer): a fast tool for estimating distances between genomes from low-coverage sequencing reads (genome-skims), without needing any assembly or alignment step.
+- [iGUIDE](https://github.com/cnobles/iGUIDE): a pipeline written in snakemake for processing and analyzing double-strand DNA break events. These events may be induced, such as by designer nucleases like Cas9, or spontaneous, as produced through DNA replication or ionizing radiation.
+- [plyranges](https://github.com/sa-lee/plyranges): provides a consistent interface for importing and wrangling genomics data from a variety of sources. The package defines a grammar of genomic data manipulation based on dplyr and the Bioconductor packages IRanges, GenomicRanges, and rtracklayer. 
+- [FORGe](https://github.com/langmead-lab/FORGe): tool for ranking variants and building an optimal graph genome.
 
 ##### Statistical and Visualization
 
