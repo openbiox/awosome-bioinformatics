@@ -408,6 +408,22 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [appris](http://apprisws.bioinfo.cnio.es): a system that deploys a range of computational methods to provide annotations of alternative splice isoforms and identify principal isoforms for vertebrate species
 - [rbpdb](http://rbpdb.ccbr.utoronto.ca): a collection of RNA-binding proteins linked to a curated database of published observations of RNA binding
 - [type2diabetesgenetics](http://www.type2diabetesgenetics.org/home/portalHome): providing data and tools to promote understanding and treatment of type 2 diabetes and its complications
+- [pepquery](http://www.pepquery.org/): a peptide-centric search engine for novel peptide identification and validation
+- [Gene Info eXtension (GIX)](https://gene-info.org/): a browser extension that allows you to retrieve information about a gene product directly on any webpage simply by double clicking an official gene name, synonym or supported accession.
+- [cancermine](http://bionlp.bcgsc.ca/cancermine/): a literature-mined resource for drivers, oncogenes and tumor suppressors in cancer.
+- [gpcrdb](https://www.gpcrdb.org/): contains data, diagrams and web tools for G protein-coupled receptors (GPCRs). Users can browse all GPCR structures and the largest collections of receptor mutants. Diagrams can be produced and downloaded to illustrate receptor residues (snake-plot and helix box diagrams) and relationships (phylogenetic trees). Reference (structure) structure-based sequence alignments take into account helix bulges and constrictions, display statistics of amino acid conservation and have been assigned generic residue numbering for equivalent residues in different receptors.
+- [FPbase](https://www.fpbase.org):  a free, open-source, web-based, communityeditable database for fluorescent proteins (FPs) and their properties. 
+- [Image Data Resource (IDR)](https://idr.openmicroscopy.org/): Image Data Resource (IDR) is a public repository of image datasets from published scientific studies, where the community can submit, search and access high-quality bio-image data.
+- [Allen Brain Atlases and Data](http://portal.brain-map.org/): The Allen Institute for Brain Science uses a unique approach to generate data, tools and knowledge for researchers to explore the biological complexity of the mammalian brain. This portal provides access to high quality data and web-based applications created for the benefit of the global research community.
+- [Allen Cell Explorer](https://www.allencell.org/): a python-based, open-source toolkit that combines classic 3D image segmentation with artificial intelligence to detect cellular structures.
+- [Mitotic Cell Atlas](https://www.mitocheck.org/mitotic_cell_atlas/): Provides a comprehensive and quantitative 4D model of the mitotic protein localization network in a dividing human cell. Mitotic Cell Atlas is an integrated experimental and computational framework that provides a standardized yet dynamic spatio-temporal reference system for the mitotic cell. It can be used to integrate quantitative information on any number of protein distributions sampled in thousands of different experiments.
+- [Broad Bioimage Benchmark Collection](https://data.broadinstitute.org/bbbc/): a collection of freely downloadable microscopy image sets. In addition to the images themselves, each set includes a description of the biological application and some type of "ground truth" (expected results).
+- [Cell Image Library](http://www.cellimagelibrary.org/home): a repository for images and movies of cells from a variety of organisms. It demonstrates cellular architecture and functions with high quality images, videos, and animations. This comprehensive and easily accessible Library is designed as a public resource first and foremost for research, and secondarily as a tool for education. The long-term goal is the construction of a library of images that will serve as primary data for research.
+- [Mitocheck](https://www.mitocheck.org/index.shtml): the goal of this resource is to integrate information on cellular functions of human genes while also giving access to supporting information such as microscopy images of phenotypes. Although its primary focus is on the biology of mitosis, the resource also integrates data relevant to many other cellular functions.
+- [ssbd](http://ssbd.qbic.riken.jp/): Systems Science of Biological Dynamics (SSBD) database provides a rich set of open resources for analyzing quantitative data and microscopy images of biological objects, such as single-molecule, cell, gene expression nuclei, etc. Quantitative biological data and microscopy image are collected from a variety of species, sources and methods. These include data obtained from both experiment and computational simulation.
+- [IMPC](https://www.mousephenotype.org/): the International Mouse Phenotyping Consortium (IMPC) is an international effort by 19 research institutions to identify the function of every protein-coding gene in the mouse genome. The entire genome of many species has now been published and whole genome sequencing is becoming relatively quick and cheap to complete. Despite these advancements the function of the majority of genes remains unknown.
+- [elixir](https://elixir-europe.org/): ELIXIR unites Europe’s leading life science organisations in managing and safeguarding the increasing volume of data being generated by publicly funded research. It coordinates, integrates and sustains bioinformatics resources across its member states and enables users in academia and industry to access services that are vital for their research.
+- [Global BioImaging Project](http://www.eurobioimaging.eu/global-bioimaging): the imaging landscape changed significantly in the last 10 years as the the concept of open user access to cutting-edge technologies became valued and well recognized. In Europe imaging experts from 25 countries joined their forces and draw the vision of a pan-European imaging infrastructure, which gave momentum to the project of founding a Euro-BioImaging European Research Infrastructure Consortium (the EuBI ERIC).
 
 ##### Clinical Annotation
 
@@ -545,6 +561,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [BreaKmer](https://github.com/ccgd-profile/BreaKmer): A method to identify structural variation from sequencing data in target regions
 - [deTiN](https://github.com/broadinstitute/deTiN): DeTiN is designed to measure tumor-in-normal contamination and improve somatic variant detection sensitivity when using a contaminated matched control.
 - [vadir](https://academic.oup.com/gigascience/article/7/2/gix122/4757064): an integrated approach to Variant Detection in RNA
+- [CN_Learn](https://github.com/girirajanlab/CN_Learn): a framework to integrate Copy Number Variant (CNV) predictions made by multiple algorithms using exome sequencing datasets
 
 ##### Variant Annotation
 
@@ -559,6 +576,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [OncodriveCLUST](http://bg.upf.edu/group/projects/oncodrive-clust.php): exploiting the positional clustering of somatic mutations to identify cancer genes
 - [bystro](https://github.com/akotlar/bystro): Bystro genetic analysis (annotation, filtering, statistics
 - [contest](http://www.broadinstitute.org/cancer/cga/contest): a tool (and method) for estimating the amount of cross-sample contamination in next generation sequencing data.  Using a Bayesian framework, contamination levels are estimated from array based genotypes and sequencing reads
+- [pathopredictor](https://github.com/samesense/pathopredictor): Predict pathogenic and benign missense variant status.
 
 ##### Variant Visualization (SNVs, INDELs, SVs)
 
@@ -592,6 +610,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [DESeq2](http://www.bioconductor.org/packages/release/bioc/html/DESeq2.html)
 - [edgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html)
 - [HTSeq](https://github.com/simon-anders/htseq)
+- [RESM](https://github.com/deweylab/RSEM): RNA-Seq by Expectation-Maximization, accurate quantification of gene and isoform expression from RNA-Seq data.
 - [sRNAnalyzer](http://srnanalyzer.systemsbiology.net/)
 - [mrnn](https://github.com/hendrixlab/mRNN): an implementation of a Gated Recurrent Unit (GRU) network for classification of transcripts as either coding or noncoding
 - [prada](https://sourceforge.net/projects/prada): pipeline for RNA-Sequencing Data Analysis
@@ -602,7 +621,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [mixcr](https://github.com/milaboratory/mixcr): a universal software for fast and accurate extraction of T- and B- cell receptor repertoires from any type of sequencing data. Free for academic use only
 - [trust](https://bitbucket.org/liulab/trust/): Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST performs de novo assembly on the hypervariable complementarity-determining region 3 (CDR3) and reports contigs containing the CDR3 DNA and amino acid sequences. TRUST then realigns the contigs to IMGT reference gene sequences to report the corresponding variable (V) or joining (J) genes.
 - [topconfects](https://github.com/pfh/topconfects): is intended for RNA-seq or microarray Differntial Expression analysis and similar, where we are interested in placing confidence bounds on many effect sizes--one per gene--from few samples.
-
+- [PLIER](https://github.com/wgmao/PLIER): Pathway-Level Information Extractor (PLIER): a generative model for gene expression data.
 
 ##### Virus and Microbial Related
 
@@ -611,7 +630,9 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [ROP](https://github.com/smangul1/rop): discovering the source of all RNA-seq reads, including those originating from repeat sequences, recombinant B and T cell receptors, and microbial communities
 - [ViFi](https://github.com/namphuon/ViFi): pipeline for identifying viral integration and fusion mRNA reads from NGS data
 - [hgtid](http://kalarikrlab.org/Software/HGT-ID.html): an efficient and sensitive workflow to detect human-viral insertion sites using next-generation sequencing data
-- [MicroPro](https://github.com/zifanzhu/MicroPro): a software to perform profiling of both known and unknown microbial organisms for metagenomic dataset. 
+- [MicroPro](https://github.com/zifanzhu/MicroPro): a software to perform profiling of both known and unknown microbial organisms for metagenomic dataset.
+- [FEAST](https://github.com/cozygene/FEAST): a scalable algorithm for quantifying the origins of complex microbial communities.
+- [mcorr](https://github.com/kussell-lab/mcorr): inferring bacterial recombination rates from large-scale sequencing datasets.
 
 ##### Single Cell
 
@@ -630,6 +651,17 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [clonealign](https://github.com/kieranrcampbell/clonealign): Bayesian inference of clone-specific gene expression estimates by integrating single-cell RNA-seq and single-cell DNA-seq data
 - [CellFishing.jl](https://github.com/bicycle1885/CellFishing.jl): (cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles.
 - [VIPER](https://github.com/ChenMengjie/VIPER): variability-preserving imputation for accurate gene expression recovery in single-cell RNA sequencing studies.
+- [scgen](https://github.com/theislab/scgen): a tensorflow implementation of scGen. scGen is a generative model to predict single-cell perturbation response across cell types, studies and species.
+- [conos](https://github.com/hms-dbmi/conos): a package to wire together large collections of single-cell RNA-seq datasets. It focuses on uniform mapping of homologous cell types across heterogeneous sample collections. For instance, a collection of dozens of peripheral blood samples from cancer patients, combined with dozens of controls. And perhaps also including samples of a related tissue, such as lymph nodes.
+- [MAGIC](https://github.com/KrishnaswamyLab/MAGIC): Markov Affinity-based Graph Imputation of Cells (MAGIC) is an algorithm for denoising high-dimensional data most commonly applied to single-cell RNA sequencing data. MAGIC learns the manifold data, using the resultant graph to smooth the features and restore the structure of the data.
+- [zinbwave](https://github.com/drisso/zinbwave): a zero-inflated negative binomial model for single-cell RNA-seq data, with latent factors.
+- [SIMLR_PY](https://github.com/bowang87/SIMLR_PY): Visualization and analysis of single-cell RNA-seq data by kernel-based similarity learning.
+- [dca](https://github.com/theislab/dca): a deep count autoencoder network to denoise scRNA-seq data and remove the dropout effect by taking the count structure, overdispersed nature and sparsity of the data into account using a deep autoencoder with zero-inflated negative binomial (ZINB) loss function.
+- [scVI](https://github.com/YosefLab/scVI): deep generative modeling for single-cell transcriptomics.
+- [PhenoGraph](https://github.com/jacoblevine/PhenoGraph): a clustering method designed for high-dimensional single-cell data. It works by creating a graph ("network") representing phenotypic similarities between cells and then identifying communities in this graph.
+- [splatter](https://github.com/Oshlack/splatter-paper): simulation of Single-cell RNA sequencing data.
+- [DeepNovo-DIA](https://github.com/nh2tran/DeepNovo-DIA): de novo peptide sequencing for DDA and DIA by deep learning.
+- [scVI](https://github.com/YosefLab/scVI): Deep generative modeling for single-cell transcriptomics.
 
 ##### Protein Data Related
 
@@ -734,6 +766,35 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [iGUIDE](https://github.com/cnobles/iGUIDE): a pipeline written in snakemake for processing and analyzing double-strand DNA break events. These events may be induced, such as by designer nucleases like Cas9, or spontaneous, as produced through DNA replication or ionizing radiation.
 - [plyranges](https://github.com/sa-lee/plyranges): provides a consistent interface for importing and wrangling genomics data from a variety of sources. The package defines a grammar of genomic data manipulation based on dplyr and the Bioconductor packages IRanges, GenomicRanges, and rtracklayer. 
 - [FORGe](https://github.com/langmead-lab/FORGe): tool for ranking variants and building an optimal graph genome.
+- [SE-MEI](https://github.com/dpryan79/SE-MEI): tools for finding mobile element insertions from single-end datasets.
+- [Anchor](https://github.com/GuanLab/Anchor): trans-cell Type Prediction of Transcription Factor Binding Sites
+- [adVNTR](https://github.com/mehrdadbakhtiari/adVNTR): a tool for genotyping Variable Number Tandem Repeats (VNTR) from sequence data. It works with both NGS short reads (Illumina HiSeq) and SMRT reads (PacBio) and finds diploid repeating counts for VNTRs and identifies possible mutations in the VNTR sequences.
+- [ldsc](https://github.com/bulik/ldsc): a command line tool for estimating heritability and genetic correlation from GWAS summary statistics. ldsc also computes LD Scores.
+- [BigStitcher](https://github.com/PreibischLab/BigStitcher): ImgLib2/BDV implementation of Stitching for large datasets.
+- [ivtnmr](https://github.com/systemsnmr/ivtnmr): In Vitro Transcription NMR. Protocol, code and examples for the co-transcriptional RNA folding network reconstruction.
+- [DIVERS](https://github.com/hym0405/DIVERS): (Decomposition of Variance Using Replicate Sampling), including absolute abundance estimation from spike-in sequencing and the variance/covariance decompostion of absolute bacterial abundances.
+- [prosit](https://github.com/kusterlab/prosit/): offers high quality MS2 predicted spectra for any organism and protease as well as iRT prediction
+- [DeepCell](http://github.com/vanvalenlab/deepcell-tf): Software library for deep-learning-enabled single-cell analysis in the
+cloud. Users manage their own cloud deployment; model training and
+deployment are performed through a web interface.
+- [CDeep3M](http://github.com/CRBS/cdeep3m): Amazon machine image for training and deploying deep learning models
+for 2D and 3D image segmentation
+- [U-Net](http://github.com/lmb-freiburg/Unet-Segmentation): ImageJ plug-in for single-cell image segmentation with U-Net.
+- [CellProfiler](http://github.com/CellProfiler/CellProfiler): Python-based software for single-cell segmentation and morphological profiling. Single-cell segmentation with U-Net available through a REST API.
+- [Mask R-CNN](https://github.com/matterport/Mask_RCNN): Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow.
+- [Cell Cognition Explorer](https://software.cellcognition-project.org/): an open-source image processing tool for the analysis of cellular phenotypes in microscopy. CellCognition Explorer enables phenotype classification by supervised machine learning. To detect rare phenotypes, outlier morphologies can be automatically found by novelty detection methods. A key feature of CellCognition Explorer is an improved classifier training procedure based on automated pre-processing of the full data set into cell gallery images, which can be automatically sorted based on phenotype similarity for efficient iterative classifier training.
+- [DeepLabCut](https://alexemg.github.io/DeepLabCut/): a toolbox for markerless pose estimation of animals performing various tasks.
+- [LEAP](https://github.com/talmo/leap): LEAP Estimates Animal Pose, a framework for animal body part position estimation via deep learning.
+- [idtracker.ai](https://gitlab.com/polavieja_lab/idtrackerai): a software that tracks and identifies animals in collectives from videos.
+- [In silico labeling](https://github.com/google/in-silico-labeling): Predicting fluorescent labels in unlabeled images.
+- [Image restoration](http://csbdeep.bioimagecomputing.com/): a toolbox for Content-aware Image Restoration (CARE).
+- [trackViewer](https://github.com/jianhong/trackViewer.documentation): a Bioconductor package for interactive and integrative visualization of multi-omics data
+- [cistopic](https://github.com/aertslab/cistopic): probabilistic modelling of cis-regulatory topics from single cell epigenomics data
+- [selene](https://github.com/FunctionLab/selene): a framework for training sequence-level deep learning networks.
+- [sirius](https://bio.informatik.uni-jena.de/software/sirius/): a rapid tool for turning tandem mass spectra into metabolite structure information.
+- [SDA](https://github.com/mvollger/SDA): Segmental Duplication Assembler (SDA).
+- [fmriprep](https://github.com/poldracklab/fmriprep): a robust and easy-to-use pipeline for preprocessing of diverse fMRI data. The transparent workflow dispenses of manual intervention, thereby ensuring the reproducibility of the results.
+- [unifrac](https://github.com/biocore/unifrac): for high-performance phylogenetic diversity calculations
 
 ##### Statistical and Visualization
 
