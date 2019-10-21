@@ -562,6 +562,9 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [deTiN](https://github.com/broadinstitute/deTiN): DeTiN is designed to measure tumor-in-normal contamination and improve somatic variant detection sensitivity when using a contaminated matched control.
 - [vadir](https://academic.oup.com/gigascience/article/7/2/gix122/4757064): an integrated approach to Variant Detection in RNA
 - [CN_Learn](https://github.com/girirajanlab/CN_Learn): a framework to integrate Copy Number Variant (CNV) predictions made by multiple algorithms using exome sequencing datasets
+- [SVseq2](https://sourceforge.net/projects/svseq2/)
+- [SoftSV](https://sourceforge.net/projects/softsv/): a tool for the detection of small and large deletions, inversions, tandem duplications and translocations from paired-end sequencing data.
+- [wham](https://github.com/zeeev/wham): consists of two programs, wham and whamg. wham, the original tool, is a very sensitive method with a high false discovery rate. The second program, whamg, is more accurate and better suited for general structural variant (SV) discovery.
 
 ##### Variant Annotation
 
@@ -633,6 +636,9 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [MicroPro](https://github.com/zifanzhu/MicroPro): a software to perform profiling of both known and unknown microbial organisms for metagenomic dataset.
 - [FEAST](https://github.com/cozygene/FEAST): a scalable algorithm for quantifying the origins of complex microbial communities.
 - [mcorr](https://github.com/kussell-lab/mcorr): inferring bacterial recombination rates from large-scale sequencing datasets.
+- [VirusFinder2](https://bioinfo.uth.edu/VirusFinder/): a new software tool for characterizing intra-host viruses through next generation sequencing (NGS) data.
+- [VirusSeq](https://odin.mdacc.tmc.edu/~xsu1/VirusSeq.html): a algorithmic tool for detecting known viruses and their integration sites using next-generation sequencing of human cancer tissue.
+- [BatVI](http://biogpu.ddns.comp.nus.edu.sg/~ksung/batvi/index.html): a fast and sensitive method to determine viral integrations.
 
 ##### Single Cell
 
