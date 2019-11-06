@@ -24,6 +24,7 @@
   - [Sequencing Technology](#sequencing-technology)
   - [Tools](#tools)
   - [Books&Tutorial](#bookstutorial)
+  - [Paper](#paper)
 
 - [Skills](#skills)
 - [Organization](#organization)
@@ -980,6 +981,106 @@ for 2D and 3D image segmentation
 - [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)
 - [生信菜鸟团博客](http://www.bio-info-trainee.com/)
 - [生信技能树论坛](https://vip.biotrainee.com)
+
+### Paper
+
+#### Basic of High-throughput sequencing technology
+
+-   Hadfield, J. & Retief, J. A profusion of confusion in NGS methods naming. Nat Methods 15, 7-8 (2018): [http://enseqlopedia.com/enseqlopedia/](http://enseqlopedia.com/enseqlopedia/)，
+-   Schuster S C. Next-generation sequencing transforms today's biology[J]. Nature methods, 2008, 5(1): 16-18.
+-   Ozsolak F, Milos P M. RNA sequencing: advances, challenges and opportunities.[J]. Nature Reviews Genetics, 2011, 12(2):87-98.
+-   Stark R, Grzelak M, Hadfield J. RNA sequencing: the teenage years[J]. Nature Reviews Genetics, 2019, 20(11): 631-656
+-   Ansorge W J. Next-generation DNA sequencing techniques[J]. New biotechnology, 2009, 25(4): 195-203.
+-   Heather J M, Chain B. The sequence of sequencers: The history of sequencing DNA[J]. Genomics, 2016, 107(1): 1-8.
+-   Schneider G F, Dekker C. DNA sequencing with nanopores[J]. Nature biotechnology, 2012, 30(4): 326.
+-   Restrepo-Pérez L, Joo C, Dekker C. Paving the way to single-molecule protein sequencing[J]. Nature nanotechnology, 2018, 13(9): 786-796.
+
+#### Large research project
+
+-   Cancer Genome Atlas Research, N., et al., *The Cancer Genome Atlas Pan-Cancer analysis project.* Nat Genet, 2013. 45(10): p. 1113-20.
+-   International Cancer Genome, C., et al., *International network of cancer genome projects.* Nature, 2010. 464(7291): p. 993-8.
+-   Consortium, G.T., *The Genotype-Tissue Expression (GTEx) project.* Nat Genet, 2013. 45(6): p. 580-5.
+-   G.P., *Enhancing GTEx by bridging the gaps between genotype, gene expression, and disease.* Nat Genet, 2017. 49(12): p. 1664-1670.
+-   Consortium, G.T., et al., *Genetic effects on gene expression across human tissues.* Nature, 2017. 550(7675): p. 204-213.
+
+#### Precision medicine
+
+-   Byron, S.A., et al., *Translating RNA sequencing into clinical diagnostics: opportunities and challenges.* Nat Rev Genet, 2016. 17(5): p. 257-71.
+-   Price, N.D., et al., *A wellness study of 108 individuals using personal, dense, dynamic data clouds.* Nat Biotechnol, 2017. 35(8): p. 747-756.
+-   Kumar-Sinha, C. and A.M. Chinnaiyan, *Precision oncology in the age of integrative genomics.* Nat Biotechnol, 2018. 36(1): p. 46-60.
+-   Torkamani, A., N.E. Wineinger, and E.J. Topol, *The personal and clinical utility of polygenic risk scores.* Nat Rev Genet, 2018.
+-   Berdasco, M. and M. Esteller, *Clinical epigenetics: seizing opportunities for translation.* Nat Rev Genet, 2018.
+
+#### Tumor biology
+
+-   Stratton, M.R., P.J. Campbell, and P.A. Futreal, *The cancer genome.* Nature, 2009. 458(7239): p. 719-24.
+-   Sanchez-Vega, F., et al., *Oncogenic Signaling Pathways in The Cancer Genome Atlas.* Cell, 2018. 173(2): p. 321-337 e10.
+-   Huang, K.L., et al., *Pathogenic Germline Variants in 10,389 Adult Cancers.* Cell, 2018. 173(2): p. 355-370 e14.
+-   Kahles, A., et al., *Comprehensive Analysis of Alternative Splicing Across Tumors from 8,705 Patients.* Cancer Cell, 2018.
+-   Castro-Giner, F., P. Ratcliffe, and I. Tomlinson, *The mini-driver model of polygenic cancer evolution.* Nat Rev Cancer, 2015. 15(11): p. 680-5.
+-   Salk, J.J., M.W. Schmitt, and L.A. Loeb, *Enhancing the accuracy of next-generation sequencing for detecting rare and subclonal mutations.* Nat Rev Genet, 2018.
+-   Winters, I.P., C.W. Murray, and M.M. Winslow, *Towards quantitative and multiplexed in vivo functional cancer genomics.* Nat Rev Genet, 2018. 19(12): p. 741-755.
+-   Pesavento, P.A., et al., *Cancer in wildlife: patterns of emergence.* Nat Rev Cancer, 2018.
+-   Maman, S. and I.P. Witz, *A history of exploring cancer in context.* Nat Rev Cancer, 2018. 18(6): p. 359-376.
+-   Hamidi, H. and J. Ivaska, *Every step of the way: integrins in cancer progression and metastasis.* Nat Rev Cancer, 2018.
+-   Archetti, M. and K.J. Pienta, *Cooperation among cancer cells: applying game theory to cancer.* Nat Rev Cancer, 2018.
+
+#### Bioinformatics databases and tools
+
+-   Ding, L., et al., *Expanding the computational toolbox for mining cancer genomes.* Nat Rev Genet, 2014. 15(8): p. 556-70.
+-   Cheng, F., J. Zhao, and Z. Zhao, *Advances in computational approaches for prioritizing driver mutations and significantly mutated genes in cancer genomes.* Brief Bioinform, 2016. 17(4): p. 642-56.
+-   Zhang, Z., et al., *A survey and evaluation of Web-based tools/databases for variant analysis of TCGA data.* Brief Bioinform, 2018.
+-   Casper J, Zweig A S, Villarreal C, et al. The UCSC genome browser database: 2018 update[J]. Nucleic acids research, 2017, 46(D1): D762-D769.
+-   Afgan, E., et al., *The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2018 update.* Nucleic Acids Res, 2018. 46(W1): p. W537-W544.
+-   Sondka, Z., et al., *The COSMIC Cancer Gene Census: describing genetic dysfunction across all human cancers.* Nat Rev Cancer, 2018. 18(11): p. 696-705.
+
+#### Application of machine learning on bioinformatics
+
+-   Zou, J., et al., *A primer on deep learning in genomics.* Nat Genet, 2019. 51(1): p. 12-18.
+-   Eraslan, G., et al., *Deep learning: new computational modelling techniques for genomics.* Nat Rev Genet, 2019.
+-   Wainberg, M., et al., *Deep learning in biomedicine.* Nat Biotechnol, 2018. 36(9): p. 829-838.
+-   Ching, T., et al., *Opportunities and obstacles for deep learning in biology and medicine.* J R Soc Interface, 2018. 15(141).
+-   Min, S., B. Lee, and S. Yoon, *Deep learning in bioinformatics.* Brief Bioinform, 2017. 18(5): p. 851-869.
+-   Jones, W., et al., *Computational biology: deep learning.* Emerging Topics in Life Sciences, 2017. 1(3): p. 257-274.
+-   Angermueller, C., et al., *Deep learning for computational biology.* Mol Syst Biol, 2016. 12(7): p. 878.
+-   Zhou, J., et al., *Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk.* Nat Genet, 2018. 50(8): p. 1171-1179.
+-   Sundaram, L., et al., *Predicting the clinical impact of human mutation with deep neural networks.* Nat Genet, 2018.
+-   Libbrecht, M.W. and W.S. Noble, *Machine learning applications in genetics and genomics.* Nat Rev Genet, 2015. 16(6): p. 321-32.
+-   Camacho, D.M., et al., *Next-Generation Machine Learning for Biological Networks.* Cell, 2018. 173(7): p. 1581-1592.
+
+#### Whole-genome sequencing
+
+-   Kosugi, Shunichi, et al. "Comprehensive evaluation of structural variation detection algorithms for whole genome sequencing."*Genome biology*20.1 (2019): 117. 
+
+#### Single cell sequencing
+
+-   Kiselev, V.Y., T.S. Andrews, and M. Hemberg, *Challenges in unsupervised clustering of single-cell RNA-seq data.* Nat Rev Genet, 2019. 20(5): p. 273-282.
+-   McInnes, L., J. Healy, and J. Melville *UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction*. arXiv e-prints, 2018.
+-   Maaten, L.v.d.a.H., Geoffrey, *Visualizing Data using t-SNE.* Journal of Machine Learning Research, 2008. 9: p. 2579--2605.
+-   Lake, B.B., et al., *Integrative single-cell analysis of transcriptional and epigenetic states in the human adult brain.* Nat Biotechnol, 2018. 36(1): p. 70-80.
+-   Cusanovich, D.A., et al., *A Single-Cell Atlas of In Vivo Mammalian Chromatin Accessibility.* Cell, 2018. 174(5): p. 1309-1324 e18.
+-   Haghverdi, L., et al., *Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors.* Nat Biotechnol, 2018.
+-   Raj, B., et al., *Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain.* Nat Biotechnol, 2018. 36(5): p. 442-450.
+-   Edsgard, D., P. Johnsson, and R. Sandberg, *Identification of spatial expression trends in single-cell gene expression data.* Nat Methods, 2018. 15(5): p. 339-342.
+
+#### Non-coding region and synonymous mutation 
+
+-   Fredriksson, N.J., et al., *Systematic analysis of noncoding somatic mutations and gene expression alterations across 14 tumor types.* Nat Genet, 2014. 46(12): p. 1258-63.
+-   Weinhold, N., et al., *Genome-wide analysis of noncoding regulatory mutations in cancer.* Nat Genet, 2014. 46(11): p. 1160-5.
+-   Uszczynska-Ratajczak, B., et al., *Towards a complete map of the human long non-coding RNA transcriptome.* Nat Rev Genet, 2018.
+-   Chamary J V, Parmley J L, Hurst L D. Hearing silence: non-neutral evolution at synonymous sites in mammals[J]. Nature Reviews Genetics, 2006, 7(2): 98.
+-   Sauna Z E, Kimchi-Sarfaty C. Understanding the contribution of synonymous mutations to human disease[J]. Nature Reviews Genetics, 2011, 12(10): 683.
+-   Supek F, Miñana B, Valcárcel J, et al. Synonymous mutations frequently act as driver mutations in human cancers[J]. Cell, 2014, 156(6): 1324-1335.
+-   Sharma, Y., et al., *A pan-cancer analysis of synonymous mutations.* Nat Commun, 2019. 10(1): p. 2569.
+
+#### Pan-genome
+
+-   Li, R., et al., *Building the sequence map of the human pan-genome.* Nat Biotechnol, 2010. 28(1): p. 57-63.
+-   Duan Z, Qiao Y, Lu J, et al. HUPAN: a pan-genome analysis pipeline for human genomes[J]. Genome biology, 2019, 20(1): 149.
+
+#### 3D genome
+
+-   Spielmann, M., D.G. Lupianez, and S. Mundlos, *Structural variation in the 3D genome.* Nat Rev Genet, 2018. 19(7): p. 453-467.
 
 ## Skills
 
