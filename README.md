@@ -1203,6 +1203,7 @@ for 2D and 3D image segmentation
 - [Blue Collar Bioinformatics](https://bcbio.wordpress.com/)
 - [Simpson Lab](http://simpsonlab.github.io/blog/)
 - [Bits of Bioinformatics](https://pmelsted.wordpress.com/)
+- [Shixiang Wang's blog](https://shixiangwang.github.io/home/)
 
 ### Contributors
 
