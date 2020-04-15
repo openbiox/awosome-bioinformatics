@@ -1211,3 +1211,33 @@ for 2D and 3D image segmentation
 - [Bowen Cui](https://github.com/xcpanda)
 - [Shixiang Wang](https://github.com/ShixiangWang)
 - [l0o0](https://github.com/l0o0)
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/openbiox/awosome-bioinformatics/graphs/contributors"><img src="https://opencollective.com/awosome-bioinformatics/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/awosome-bioinformatics/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/awosome-bioinformatics"><img src="https://opencollective.com/awosome-bioinformatics/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/awosome-bioinformatics/contribute)]
+
+<a href="https://opencollective.com/awosome-bioinformatics/organization/0/website"><img src="https://opencollective.com/awosome-bioinformatics/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/awosome-bioinformatics/organization/1/website"><img src="https://opencollective.com/awosome-bioinformatics/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/awosome-bioinformatics/organization/2/website"><img src="https://opencollective.com/awosome-bioinformatics/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/awosome-bioinformatics/organization/3/website"><img src="https://opencollective.com/awosome-bioinformatics/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/awosome-bioinformatics/organization/4/website"><img src="https://opencollective.com/awosome-bioinformatics/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/awosome-bioinformatics/organization/5/website"><img src="https://opencollective.com/awosome-bioinformatics/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/awosome-bioinformatics/organization/6/website"><img src="https://opencollective.com/awosome-bioinformatics/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/awosome-bioinformatics/organization/7/website"><img src="https://opencollective.com/awosome-bioinformatics/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/awosome-bioinformatics/organization/8/website"><img src="https://opencollective.com/awosome-bioinformatics/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/awosome-bioinformatics/organization/9/website"><img src="https://opencollective.com/awosome-bioinformatics/organization/9/avatar.svg"></a>
