@@ -357,6 +357,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 
 #### Web-based Service
 
+- [Hiplot](https://hiplot.com.cn): a simple and user-friendly visualization platform for scientific data.
 - [UCSC](https://genome.ucsc.edu/)
 - [NCBI](https://www.ncbi.nlm.nih.gov/)
   - [CDD](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml)
