@@ -640,10 +640,32 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 
 ##### Alternative Splicing
 
-- [LeafCutter](https://github.com/davidaknowles/leafcutter)
+- [LeafCutter](https://github.com/davidaknowles/leafcutter/) Annotation-free quantification of RNA splicing.
 - [rMATS](http://rnaseq-mats.sourceforge.net/rmats3.2.5/)
-- [IRFinder](https://github.com/williamritchie/IRFinder): detecting intron retention from RNA-Seq experiments
 - [MMSplice](https://github.com/gagneurlab/MMSplice): variant effect predictions on splicing
+- [pram](https://github.com/pliu55/pram) predict intergenic transcript models from RNA-seq (Genome Res 2020)
+- [shark](https://github.com/AlgoLab/shark) Mapping-free filtering of irrelevant RNA-Seq reads（Bioinformatics 202）
+- [PAIRADISE](https://github.com/Xinglab/PAIRADISE) Paired Replicate Analysis of Allelic Differential Splicing Events (AJHG 2020)
+- [IRFinder](https://github.com/williamritchie/IRFinder) Detecting intron retention from RNA-Seq experiments
+- [iread](https://github.com/genemine/iread) Detect intron retention(IR) events from RNA-seq datasets
+- [DARTS](https://github.com/Xinglab/DARTS) Deep-learning Augmented RNA-seq analysis of Transcript Splicing
+- [SpliceAI](https://github.com/Illumina/SpliceAI) A deep learning-based tool to identify splice variants
+- DEXSeq Detecting differential usage of exons from RNA-seq data
+- [MATS](http://intron.healthcare.uiowa.edu/MATS/)
+- [cash](https://soft.novelbio.com/cash/) Comprehensive alternative splicing hunting
+- [tappas](https://app.tappas.org/downloads/) a comprehensive computational framework for the analysis of the functional impact of differential splicing
+- [dsreg](https://bitbucket.org/cmartiga/dsreg) dSreg is a library to perform joint inference of differential splicing and regulatory mechanisms using RNA-seq data.
+- [PSI-Sigma](https://github.com/wososa/PSI-Sigma)  a comprehensive splicing detection method for short-read and long-read RNAseq analysis.
+- [PsiCLASS](https://github.com/splicebox/PsiCLASS) Simultaneous multi-sample transcript assembler for RNA-seq data
+- [IsoformSwitchAnalyzeR](http://bioconductor.org/packages/release/bioc/html/IsoformSwitchAnalyzeR.html) Identify, Annotate and Visualize Alternative Splicing and Isoform Switches with Functional Consequences from both short- and long-read RNA-seq data.
+- [yanagi](https://github.com/HCBravoLab/yanagi) Transcript Segment Library Construction for RNA-Seq Quantification
+- [AStrap](https://github.com/BMILAB/AStrap) Identification of alternative splicing from transcript sequences without a reference genome
+- [DSC](https://github.com/louadi/DSC) A deep learning approach for classification of alternative splicing events
+- [CATANA](https://github.com/shiauck/CATANA)  Comprehensive Alternative Transcripts Atlas based oN Annotation (CATANA) to identify all 10 known AS and AT events.
+- [benchmarkingDiffExprAndSpl](https://github.com/gamerino/benchmarkingDiffExprAndSpl) A benchmarking of workflows for detecting differential splicing and differential expression at isoform level in human RNA-seq studies
+- [psichomics](https://academic.oup.com/nar/article/47/2/e7/5114259) psichomics: graphical application for alternative splicing quantification and analysis
+- [matt](http://matt.crg.eu/#INST) A Unix toolkit for analyzing genomic sequences with focus on down-stream analysis of alternative splicing events
+- [PathwaySplice](https://bioconductor.org/packages/release/bioc/html/PathwaySplice.html) An R Package for Unbiased Splicing Pathway Analysis
 
 ##### Gene Expression Data Analysis
 
