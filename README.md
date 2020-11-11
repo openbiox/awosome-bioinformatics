@@ -517,6 +517,10 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [GEO](https://www.ncbi.nlm.nih.gov/geo/)
 - [ICGC](https://dcc.icgc.org/)
 
+#### Plant-related platforms
+
+- [Plant Regulomics](http://bioinfo.sibs.ac.cn/plant-regulomics/)
+
 #### Local tools
 
 ##### Quality Control
@@ -1148,6 +1152,7 @@ for 2D and 3D image segmentation
 - [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)
 - [生信菜鸟团博客](http://www.bio-info-trainee.com/)
 - [生信技能树论坛](https://vip.biotrainee.com)
+- [生信技能树开源语雀知识库](https://www.yuque.com/biotrainee)
 
 ### Paper
 
@@ -1346,7 +1351,7 @@ for 2D and 3D image segmentation
 - [RNA-seq Blog](https://www.rna-seqblog.com/)
 - [Jianming Zeng's blog](http://www.bio-info-trainee.com/)
 - [Yihui Xie's blog](https://yihui.name/)
-- [Fei Zhao's blog](http://kaopubear.top/)
+- [Fei Zhao's blog](https://kaopubear.top/)
 - [Mengyuan Shen's blog](http://shemy.site/)
 - [Boqiang Hu's blog](http://huboqiang.cn/)
 - [Bob's Blog](https://www.tanboyu.com/)
