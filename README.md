@@ -1141,6 +1141,7 @@ for 2D and 3D image segmentation
 #### Cloud
 
 - [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
+- [GCP-for-Bioinformatics)(https://github.com/lynnlangit/gcp-for-bioinformatics)
 - [Docker入门教程](http://dockone.io/article/111)
 
 #### Bioinfomatics
