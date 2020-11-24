@@ -535,6 +535,10 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [mosdepth](https://github.com/brentp/mosdepth)
 - [fastp](https://github.com/OpenGene/fastp)
 - [ChronQC](https://github.com/nilesh-tawari/ChronQC)
+- [cutadapt](https://cutadapt.readthedocs.io/en/stable/)
+- [trimmomatic](https://github.com/timflutre/trimmomatic)
+- [SOAPnuke](https://github.com/BGI-flexlab/SOAPnuke)
+- [sickle](https://github.com/najoshi/sickle)
 
 ##### Alignment And Assembly
 
