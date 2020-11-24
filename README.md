@@ -60,6 +60,7 @@
 - [Bioinformatics and Biology Insights](https://journals.sagepub.com/home/bbi)
 - [Advances and Applications in Bioinformatics and Chemistry](https://www.dovepress.com/advances-and-applications-in-bioinformatics-and-chemistry-journal)
 - [Genomics, Proteomics and Bioinformatics](http://www.sciencedirect.com/science/journal/16720229?sdc=1)
+- [Plos Computational Biology](https://journals.plos.org/ploscompbiol/)
 
 #### Genomics
 - [Genomics](https://www.sciencedirect.com/journal/genomics)
