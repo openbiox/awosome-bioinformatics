@@ -1327,6 +1327,7 @@ for 2D and 3D image segmentation
 
 - [Broad Institute](https://www.broadinstitute.org/)
 - [The European Bioinformatics Institute](http://www.ebi.ac.uk/)
+- [Harbin Institute of Technology | Center for Bioinformatics](http://bioinformatics.hit.edu.cn/)
 - [illumina](https://www.illumina.com/)
 - [Life Technologies](http://corporate.thermofisher.com/en/home.html)
 - [QIAGEN](https://www.qiagen.com/am/)
