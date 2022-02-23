@@ -307,6 +307,8 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
   - [TAB-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/tab-seq/)
   - [TAmC-Seq](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/tamc-seq/)
   - [T-WGBS](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/epigenetics/t-wgbs/)
+  - [BSPP](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3461232/)
+  - [TBS](https://pubmed.ncbi.nlm.nih.gov/29270239/)
 
 ##### **[Low-Level DNA Detection](http://enseqlopedia.com/wiki-entry/dna-sequencing-methods/low-level-dna-detection/)**
 
