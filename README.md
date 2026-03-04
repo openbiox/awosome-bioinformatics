@@ -980,6 +980,7 @@ for 2D and 3D image segmentation
 - [SDA](https://github.com/mvollger/SDA): Segmental Duplication Assembler (SDA).
 - [fmriprep](https://github.com/poldracklab/fmriprep): a robust and easy-to-use pipeline for preprocessing of diverse fMRI data. The transparent workflow dispenses of manual intervention, thereby ensuring the reproducibility of the results.
 - [unifrac](https://github.com/biocore/unifrac): for high-performance phylogenetic diversity calculations
+- [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis): personal genome analysis toolkit that analyzes raw DNA SNP data across 17 categories including health risks, pharmacogenomics, ancestry, and carrier status
 
 ##### Statistical and Visualization
 
