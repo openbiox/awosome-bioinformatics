@@ -739,6 +739,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [splatter](https://github.com/Oshlack/splatter-paper): simulation of Single-cell RNA sequencing data.
 - [DeepNovo-DIA](https://github.com/nh2tran/DeepNovo-DIA): de novo peptide sequencing for DDA and DIA by deep learning.
 - [scVI](https://github.com/YosefLab/scVI): Deep generative modeling for single-cell transcriptomics.
+- [FlashDeconv](https://github.com/cafferychen777/flashdeconv): High-performance spatial transcriptomics deconvolution using structure-preserving randomized sketching. Achieves linear O(N) scaling and processes 1M spots in ~3 minutes, designed for Visium HD and other high-resolution platforms.
 
 ##### Protein Data Related
 
