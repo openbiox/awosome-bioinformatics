@@ -741,6 +741,8 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [DeepNovo-DIA](https://github.com/nh2tran/DeepNovo-DIA): de novo peptide sequencing for DDA and DIA by deep learning.
 - [scVI](https://github.com/YosefLab/scVI): Deep generative modeling for single-cell transcriptomics.
 - [FlashDeconv](https://github.com/cafferychen777/flashdeconv): High-performance spatial transcriptomics deconvolution using structure-preserving randomized sketching. Achieves linear O(N) scaling and processes 1M spots in ~3 minutes, designed for Visium HD and other high-resolution platforms.
+- [DeepSpot-M](https://github.com/ratschlab/DeepSpotM): a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from H&E histology. Genes are represented as queryable embeddings rather than fixed outputs, so one model spans the protein-coding transcriptome including genes unseen during training. Applied to TCGA, it produced a virtual spatial transcriptomics atlas of 28,664 slides across 32 cancer types.
+- [AESTETIK](https://github.com/ratschlab/aestetik): a convolutional autoencoder that learns spot representations by jointly using gene expression, tissue morphology and spatial context, for spatial domain identification in spatially resolved transcriptomics data.
 
 ##### Protein Data Related
 
