@@ -360,7 +360,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 
 #### Web-based Service
 
-- [Hiplot](https://hiplot.com.cn): a simple and user-friendly visualization platform for scientific data.
+- [Hiplot](https://hiplot.cn): a comprehensive and easy-to-use web service for boosting the publication-ready biomedical data visualization.
 - [SeqBench](https://seqbench.com): DNA/RNA/protein sequence analysis toolkit with batch processing and multi-tool workflow pipelines over whole FASTA files, plasmid/sequence visualization, primer design, restriction & cloning simulation, and CRISPR guide design; exposes an MCP server and REST API for AI agents.
 - [COSMolKit Tools Web](https://tools.cosmol.org/): browser-based molecular structure tools for format conversion, SMILES/SMARTS workflows, depiction, descriptors, fingerprints, conformer generation, and related cheminformatics tasks. Source: [COSMolKit](https://github.com/cosmol-studio/cosmolkit-tools-web).
 - [UCSC](https://genome.ucsc.edu/)
