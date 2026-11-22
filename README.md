@@ -363,6 +363,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 - [Hiplot](https://hiplot.cn): a comprehensive and easy-to-use web service for boosting the publication-ready biomedical data visualization.
 - [SeqBench](https://seqbench.com): DNA/RNA/protein sequence analysis toolkit with batch processing and multi-tool workflow pipelines over whole FASTA files, plasmid/sequence visualization, primer design, restriction & cloning simulation, and CRISPR guide design; exposes an MCP server and REST API for AI agents.
 - [COSMolKit Tools Web](https://tools.cosmol.org/): browser-based molecular structure tools for format conversion, SMILES/SMARTS workflows, depiction, descriptors, fingerprints, conformer generation, and related cheminformatics tasks. Source: [COSMolKit](https://github.com/cosmol-studio/cosmolkit-tools-web).
+- [Folklore — ACMG/AMP Variant Classification](https://folklore.helena.bio/acmg-variant-classification): free browser tool for one supported human nuclear GRCh38 germline SNV or simple indel under 50 bp (HGVS, SPDI, rsID or coordinates). When available, results show an automated ACMG/AMP classification, reported criteria, annotations and linked evidence, with ClinVar submissions listed separately. Qualified review is required before clinical use. [BRCA1 example](https://folklore.helena.bio/examples/acmg-variant-classification).
 - [UCSC](https://genome.ucsc.edu/)
 - [NCBI](https://www.ncbi.nlm.nih.gov/)
   - [CDD](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml)
